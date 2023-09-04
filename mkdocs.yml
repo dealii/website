@@ -1,0 +1,69 @@
+site_name: dealii
+site_url:  https://www.dealii.org/
+repo_name: dealii/dealii
+repo_url:  https://github.com/dealii/dealii
+plugins: []
+nav:
+  - dealii:
+    - index.md
+    - Team: team.md
+    - Funding: funding.md
+    - Publications: publications.md
+    - License: license.md
+  - Team: ./team
+  - Funding: ./funding
+  - User guide:
+    - user_guide/index.md
+    - Installation instructions:
+      - Debian and Ubuntu: user_guide/installation_debian.md
+      - Windows: user_guide/installation_windows.md
+      - Retrieving sources and compiling: user_guide/installation_source.md
+    - Basic usage:
+      - Overview: user_guide/basic_usage_overview.md
+    - Youtube: https://www.youtube.com/@matthiasmaier8956/videos
+  - Development:
+    - development/index.md
+    - Github repository: https://github.com/dealii/dealii
+    - Doxygen documentation: https://dealii.org/developer/doxygen/deal.II
+markdown_extensions:
+  - attr_list
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - header.autohide
+    - toc.integrate
+    - toc.follow
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+  logo:    assets/logo.png
+  favicon: assets/favicon.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+extra:
+  homepage: https://www.dealii.org
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dealii/dealii
+  generator: false
+extra_css:
+  - stylesheets/extra.css
+copyright: Copyright &copy; 2023 - 2023 by the deal.II authors
