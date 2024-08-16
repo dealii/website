@@ -11,9 +11,7 @@ deal.II - an open source finite element library
 
 <b>Vision</b>: To create an open, inclusive, participatory community providing users and developers with a state-of-the-art, comprehensive software library that constitutes the go-to solution for all finite element problems.
 
-
 <div class="grid" markdown>
-
 
 [:octicons-download-16: Download](./download.md){ .md-button .md-button--primary .center }<br>
 deal.II is open source and available for free!
@@ -29,7 +27,6 @@ deal.II is a community project. We welcome all who want to participate!
 
 </div>
 
-
 News
 --------
 
@@ -39,3 +36,5 @@ deal.II version 9.6.0 was released today. A full list of changes can be found he
 - 2024/04/17: 11th deal.II users and developers workshop
 The 11th deal.II Users and Developers Workshop will take place at Colorado State University, Colorado, USA, August 12-16, 2024. For more information, see here.
 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1FYT2_aIxZT4VFJeJDrqAu5out9HwCDwsxWU299e5hlk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+`
