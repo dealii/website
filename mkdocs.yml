@@ -16,7 +16,7 @@ nav:
     - Team: ./team.md
     - Wiki: https://github.com/dealii/dealii/wiki
     - Funding: ./funding
-  - Current (9.6): ./current.md
+  - Current (9.6): ./current_release.md
   - Documentation: doc.md
   - Gallery: ./gallery.md
   - Applications: ./applications.md
