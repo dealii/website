@@ -35,6 +35,8 @@ Wolfgang Bangerth taught [a short course on the "Finite Element Method in Scient
 - 2023/07/07: **Version 9.5.0 released**:
 deal.II version 9.5.0 was released today. A full list of changes can be found [here](http://www.dealii.org/developer/doxygen/deal.II/changes_between_9_4_0_and_9_5_0.html) and a long description of changes is in the manuscript [here](https://www.dealii.org/deal95-preprint.pdf). Download links are on the [download](download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
 
+[(older news)](news.md)
+
 Videos
 ------
 
