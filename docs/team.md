@@ -26,7 +26,7 @@ __Marc Fehling__
 { .card }
 
 __Rene Gassmoeller__
-<br>University of Florida, FL, USA (since 2023)
+<br>GEOMAR Helmholtz Centre for Ocean Research, Kiel, Germany (since 2023)
 { .card }
 
 __Timo Heister__
