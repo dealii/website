@@ -15,15 +15,15 @@ deal.II - an open source finite element library
 <div class="grid" markdown>
 
 
-[:octicons-download-16: Download](#){ .md-button .md-button--primary .center }<br>
+[:octicons-download-16: Download](./download.md){ .md-button .md-button--primary .center }<br>
 deal.II is open source and available for free!
 { .card }
 
-[:material-help: Help](#){ .md-button .md-button--primary .center }<br>
+[:material-help: Help](./help.md){ .md-button .md-button--primary .center }<br>
 There are many resources for learning deal.II and asking for help.
 { .card }
 
-[:fontawesome-solid-paper-plane: Participate](#){ .md-button .md-button--primary .center }<br>
+[:fontawesome-solid-paper-plane: Participate](./participate.md){ .md-button .md-button--primary .center }<br>
 deal.II is a community project. We welcome all who want to participate!
 { .card }
 
