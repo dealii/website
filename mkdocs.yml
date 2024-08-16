@@ -6,7 +6,6 @@ plugins: []
 nav:
   - index.md
   - Info:
-    - ./info.md
     - About: ./about.md
     - Help: ./help.md
     - FAQ: https://github.com/dealii/dealii/wiki/Frequently-Asked-Questions
