@@ -27,6 +27,8 @@ nav:
     - Doxygen documentation: https://dealii.org/developer/doxygen/deal.II
 markdown_extensions:
   - attr_list
+  - markdown_include.include:
+      base_path: docs
 theme:
   name: material
   features:

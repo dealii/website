@@ -2,6 +2,7 @@
 
     pip install mkdocs
     pip install mkdocs-material
+    pip install markdown-include
 
 Then the server can be run locally as
 
