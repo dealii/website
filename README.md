@@ -1,7 +1,7 @@
 # Installation instructions for mkdocs
 
-  pip install mkdocs
-  pip install mkdocs-material
+    pip install mkdocs
+    pip install mkdocs-material
 
 Then the server can be run locally as
 
