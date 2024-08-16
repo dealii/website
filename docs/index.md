@@ -12,6 +12,26 @@ deal.II - an open source finite element library
 <b>Vision</b>: To create an open, inclusive, participatory community providing users and developers with a state-of-the-art, comprehensive software library that constitutes the go-to solution for all finite element problems.
 
 
+<div class="grid" markdown>
+
+
+[Download](#){ .md-button .md-button--primary }<br>
+deal.II is open source and available for free!
+{ .card }
+
+[Help](#){ .md-button .md-button--primary }<br>
+There are many resources for learning deal.II and asking for help.
+{ .card }
+
+[Participate](#){ .md-button .md-button--primary }<br>
+deal.II is a community project. We welcome all who want to participate!
+{ .card }
+
+[Gallery](#){ .md-button .md-button--primary }<br>
+{ .card }
+
+</div>
+
 
 Features
 --------
