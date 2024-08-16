@@ -7,7 +7,8 @@ nav:
   - index.md
   - Info:
     - ./info.md
-    - Help: help.md
+    - About: ./about.md
+    - Help: ./help.md
     - FAQ: https://github.com/dealii/dealii/wiki/Frequently-Asked-Questions
     - Participate: participate.md
     - Publications: publications.md
