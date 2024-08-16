@@ -4,10 +4,10 @@ repo_name: dealii/dealii
 repo_url:  https://github.com/dealii/dealii
 plugins: []
 nav:
-  - dealii:
+  - Index:
     - index.md
-    - Team: team.md
-    - Funding: funding.md
+    - Download: download.md
+    - Help: help.md
     - Publications: publications.md
     - License: license.md
   - Team: ./team
@@ -30,6 +30,7 @@ markdown_extensions:
   - md_in_html
   - markdown_include.include:
       base_path: docs
+  - admonition
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -53,7 +54,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: grey
+      primary: blue grey
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
