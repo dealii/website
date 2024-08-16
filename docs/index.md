@@ -33,32 +33,11 @@ deal.II is a community project. We welcome all who want to participate!
 </div>
 
 
-Features
+News
 --------
 
+- 2024/08/11: Version 9.6.0 released<br>
+deal.II version 9.6.0 was released today. A full list of changes can be found here and a long description of changes is in the manuscript here. Download links are on the download page, or the release page on github.
+- 2024/04/17: 11th deal.II users and developers workshop
+The 11th deal.II Users and Developers Workshop will take place at Colorado State University, Colorado, USA, August 12-16, 2024. For more information, see here.
 
-Modules
--------
-
-Ryujin features the following equation modules selectable by the following
-parameter flags:
-
- - `equation = euler`, an optimized solver module for the
-   [compressible Euler
-   equations](https://en.wikipedia.org/wiki/Euler_equations_(fluid_dynamics))
-   with polytropic equation of state.
- - `equation = euler aeos`, a generalized solver module for the
-   compressible Euler equation with an [arbitrary or tabulated equation of
-   state](https://en.wikipedia.org/wiki/Equation_of_state).
- - `equation = navier stokes`, an optimized solver module for the
-   [compressible Navier-Stokes
-   equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations)
-   with polytropic equation of state,
-   Newtonian fluid model, and Fourier's law for the heat flux.
- - `equation = shallow water`, a module for the [shallow-water
-   equations](https://en.wikipedia.org/wiki/Shallow_water_equations).
- - `equation = scalar conservation`, a module for scalar conservation
-   equations with user-supplied flux. The module features a greedy
-   wave-speed estimate to maintain an invariant domain, a generic indicator
-   based on the entropy-viscosity commutator technique with a general,
-   entropy-like function, and a customizable convex limiter.
