@@ -2,20 +2,16 @@
 title: Home
 ---
 
-ryujin
+deal.II - an open source finite element library
 ======
 
-<b>ryujin</b> is a high-performance high-order collocation-type
-finite-element solver for conservation equations such as the compressible
-Navier-Stokes and Euler equations of gas dynamics. The solver is based on
-the [convex limiting technique](https://doi.org/10.1137/17M1149961) to
-ensure [invariant domain preservation](https://doi.org/10.1137/16M1074291)
-and uses the finite element library
-[deal.II](https://github.com/dealii/dealii)
-([website](https://www.dealii.org)) and the [vector class SIMD
-library](https://github.com/vectorclass/version2). As such the solver
-maintains important physical invariants and is guaranteed to be stable
-without the use of ad-hoc tuning parameters.
+<b>What it is</b>: A C++ software library supporting the creation of finite element codes and an open community of users and developers. (Learn more.)
+
+<b>Mission</b>: To provide well-documented tools to build finite element codes for a broad variety of PDEs, from laptops to supercomputers.
+
+<b>Vision</b>: To create an open, inclusive, participatory community providing users and developers with a state-of-the-art, comprehensive software library that constitutes the go-to solution for all finite element problems.
+
+
 
 Features
 --------

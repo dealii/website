@@ -1,4 +1,4 @@
-site_name: dealii
+site_name: The deal.II Finite Element Library
 site_url:  https://www.dealii.org/
 repo_name: dealii/dealii
 repo_url:  https://github.com/dealii/dealii
@@ -66,4 +66,4 @@ extra:
   generator: false
 extra_css:
   - stylesheets/extra.css
-copyright: Copyright &copy; 2023 - 2023 by the deal.II authors
+copyright: Copyright &copy; 2023 - 2024 by the deal.II authors
