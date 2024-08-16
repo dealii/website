@@ -17,22 +17,22 @@ What deal.II can offer you
 
 If you are active in the field of adaptive finite element methods, deal.II might be the right library for your projects. Among other features, it offers:
 
-Support for one, two, and three space dimensions, using a unified interface that allows to write programs almost dimension independent.
+- Support for one, two, and three space dimensions, using a unified interface that allows to write programs almost dimension independent.
 
-Handling of locally refined grids, including different adaptive refinement strategies based on local error indicators and error estimators. Both h, p, and hp refinement is fully supported for continuous and discontinuous elements.
+- Handling of locally refined grids, including different adaptive refinement strategies based on local error indicators and error estimators. Both h, p, and hp refinement is fully supported for continuous and discontinuous elements.
 
-Support for a variety of finite elements: Lagrange elements of any order, continuous and discontinuous; Nedelec and Raviart-Thomas elements of any order; elements composed of other elements.
+- Support for a variety of finite elements: Lagrange elements of any order, continuous and discontinuous; Nedelec and Raviart-Thomas elements of any order; elements composed of other elements.
 
-Parallelization on single machine through the Threading Build Blocks and across nodes via MPI. deal.II has been shown to scale to at least 16k processors.
+- Parallelization on single machine through the Threading Build Blocks and across nodes via MPI. deal.II has been shown to scale to at least 16k processors.
 
-Extensive documentation: all documentation is available online in a logical tree structure to allow fast access to the information you need. If printed it comprises more than 500 pages of tutorials, several reports, and presently some 5,000 pages of programming interface documentation with explanations of all classes, functions, and variables. All documentation comes with the library and is available online locally on your computer after installation.
+- Extensive documentation: all documentation is available online in a logical tree structure to allow fast access to the information you need. If printed it comprises more than 500 pages of tutorials, several reports, and presently some 5,000 pages of programming interface documentation with explanations of all classes, functions, and variables. All documentation comes with the library and is available online locally on your computer after installation.
 
-Modern software techniques that make access to the complex data structures and algorithms as transparent as possible. The use of object oriented programming allows for program structures similar to the structures in mathematical analysis.
+- Modern software techniques that make access to the complex data structures and algorithms as transparent as possible. The use of object oriented programming allows for program structures similar to the structures in mathematical analysis.
 
-A complete stand-alone linear algebra library including sparse matrices, vectors, Krylov subspace solvers, support for blocked systems, and interface to other packages such as Trilinos, PETSc and METIS.
+- A complete stand-alone linear algebra library including sparse matrices, vectors, Krylov subspace solvers, support for blocked systems, and interface to other packages such as Trilinos, PETSc and METIS.
 
-Support for several output formats, including many common formats for visualization of scientific data.
+- Support for several output formats, including many common formats for visualization of scientific data.
 
-Portable support for a variety of computer platforms and compilers.
+- Portable support for a variety of computer platforms and compilers.
 
-Free source code under an Open Source license, and the invitation to contribute to further development of the library.
+- Free source code under an Open Source license, and the invitation to contribute to further development of the library.
