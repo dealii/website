@@ -1,10 +1,3 @@
----
-title: Home
----
-
-deal.II - an open source finite element library
-======
-
 <b>What it is</b>: A C++ software library supporting the creation of finite element codes and an open community of users and developers. (Learn more.)
 
 <b>Mission</b>: To provide well-documented tools to build finite element codes for a broad variety of PDEs, from laptops to supercomputers.
@@ -28,13 +21,16 @@ deal.II is a community project. We welcome all who want to participate!
 </div>
 
 News
---------
+====
 
 - 2024/08/11: __Version 9.6.0 released__<br>
 deal.II version 9.6.0 was released today. A full list of changes can be found here and a long description of changes is in the manuscript here. Download links are on the download page, or the release page on github.
 
 - 2024/04/17: 11th deal.II users and developers workshop
 The 11th deal.II Users and Developers Workshop will take place at Colorado State University, Colorado, USA, August 12-16, 2024. For more information, see here.
+
+Videos
+======
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1FYT2_aIxZT4VFJeJDrqAu5out9HwCDwsxWU299e5hlk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 `
