@@ -12,7 +12,7 @@ deal.II - an open source finite element library
 <b>Vision</b>: To create an open, inclusive, participatory community providing users and developers with a state-of-the-art, comprehensive software library that constitutes the go-to solution for all finite element problems.
 
 
-<div class="grid" markdown>
+<div class="grid cards" markdown>
 
 
 [Download](#){ .md-button .md-button--primary }<br>
