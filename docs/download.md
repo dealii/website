@@ -35,9 +35,9 @@ Development sources
                 hosted on github. This provides the latest features (as well
                 as the latest bugs.)
                 You can clone the repository directly on the command line via
-              <pre>
-  git clone https://github.com/dealii/dealii.git</pre>
-
+```
+  git clone https://github.com/dealii/dealii.git
+```
  Contributing to the deal.II development is easy and is best done
                 by forking the deal.II repository. To do this, create an account
                 on github and then, when you're logged in, click on the "Fork"

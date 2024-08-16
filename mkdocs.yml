@@ -47,6 +47,7 @@ theme:
     - header.autohide
     - toc.integrate
     - toc.follow
+    - content.code.copy
   font:
     text: Roboto
     code: Roboto Mono
