@@ -10,12 +10,16 @@
 deal.II is open source and available for free!
 { .card }
 
-[:material-help: Help](./help.md){ .md-button .md-button--primary .center }<br>
-There are many resources for learning deal.II and asking for help.
+[:fontawesome-solid-book: Documentation](https://dealii.org/developer/doxygen/deal.II){ .md-button .md-button--primary .center }<br>
+Check out our documentation.
 { .card }
 
 [:fontawesome-solid-paper-plane: Participate](./participate.md){ .md-button .md-button--primary .center }<br>
 deal.II is a community project. We welcome all who want to participate!
+{ .card }
+
+[:material-help: Help](./help.md){ .md-button .md-button--primary .center }<br>
+There are many resources for learning deal.II and asking for help.
 { .card }
 
 </div>
