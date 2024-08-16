@@ -23,11 +23,17 @@ deal.II is a community project. We welcome all who want to participate!
 News
 ----
 
-- 2024/08/11: __Version 9.6.0 released__<br>
-deal.II version 9.6.0 was released today. A full list of changes can be found here and a long description of changes is in the manuscript here. Download links are on the download page, or the release page on github.
+- 2024/08/11: **Version 9.6.0 released**:
+deal.II version 9.6.0 was released today. A full list of changes can be found [here](http://www.dealii.org/developer/doxygen/deal.II/changes_between_9_5_2_and_9_6_0.html) and a long description of changes is in the manuscript [here](https://www.dealii.org/deal95-preprint.pdf). Download links are on the [download](download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
 
-- 2024/04/17: 11th deal.II users and developers workshop
-The 11th deal.II Users and Developers Workshop will take place at Colorado State University, Colorado, USA, August 12-16, 2024. For more information, see here.
+- 2024/04/17: **11th deal.II users and developers workshop**:
+The 11th deal.II Users and Developers Workshop will take place at Colorado State University, Colorado, USA, August 12-16, 2024. For more information, see [here](https://www.dealii.org/workshop-2024).
+
+- 2024/04/12: **Short course in Chennai, India**:
+Wolfgang Bangerth taught [a short course on the "Finite Element Method in Scientific Computing"](https://civil.iitm.ac.in/pcoe/smge/term-course-2024.php) in Chennai, India, April 29 – May 03, 2024.
+
+- 2023/07/07: **Version 9.5.0 released**:
+deal.II version 9.5.0 was released today. A full list of changes can be found [here](http://www.dealii.org/developer/doxygen/deal.II/changes_between_9_4_0_and_9_5_0.html) and a long description of changes is in the manuscript [here](https://www.dealii.org/deal95-preprint.pdf). Download links are on the [download](download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
 
 Videos
 ------
