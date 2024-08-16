@@ -1,2 +1,4 @@
 Publications
 ============
+
+{!output.html!}
