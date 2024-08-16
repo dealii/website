@@ -1,0 +1,8 @@
+name: dealii-website
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - mkdocs
+  - mkdocs-material
+  - markdown-include

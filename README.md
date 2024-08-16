@@ -4,6 +4,10 @@
     pip install mkdocs-material
     pip install markdown-include
 
+Alternatively you can use conda to install all packages into a new environment named `dealii-website` like this:
+
+    conda env create -f environment.yml
+
 Then the server can be run locally as
 
     mkdocs serve
