@@ -42,7 +42,7 @@ theme:
     code: Roboto Mono
   icon:
     repo: fontawesome/brands/github
-  logo:    assets/logo.png
+  logo:    assets/clover57.png
   favicon: assets/favicon.png
   palette:
     - media: "(prefers-color-scheme: light)"
