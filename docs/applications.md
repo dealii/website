@@ -1,6 +1,8 @@
 Applications
 ============
 
+There are many outstanding applications that make use of deal.II. This is just a small collection of packages we are aware of:
+
 - [Agros Suite](http://www.agros2d.org/)
 - [ASPECT](https://aspect.geodynamics.org)
 - [Bay Area Radiation Transport](https://github.com/SlaybaughLab/BART/)
