@@ -24,13 +24,12 @@ Beyond this, deal.II has also been supported by some dedicated projects that hav
 
 - The Helmholtz Association of German Research Centres and the DLR (German Aerospace Center) through the Helmholtz-Young-Investigators-Group 'New flow solver technology based on adaptive higher order Discontinuous Galerkin methods' under the support number VH-NG-215.
 
-
 ![NSF logo](assets/images/logos/NSF-logo.png){ width="100" }
 ![CIG logo](assets/images/logos/cig.jpg){ width="150" }
 ![DLR logo](assets/images/logos/dlr.png){ width="100" }
 ![ERC logo](assets/images/logos/erc.jpg){ width="100" }
 ![Helmholtz logo](assets/images/logos/helmholtz.png){ width="200" }
+![SPPEXA logo](assets/images/logos/sppexa.png){ width="150" }
 ![KAUST logo](assets/images/logos/kaust.png){ width="400" }
 ![MNiSW logo](assets/images/logos/MNiSW.png){ width="300" }
 ![openship logo](assets/images/logos/openship.png){ width="150" }
-![SPPEXA logo](assets/images/logos/sppexa.png){ width="150" }
