@@ -15,7 +15,7 @@ Development
 - how deal.II works
 { .card }
 
-[:fontawesome-solid-image: Code Gallery](https://dealii.org/developer/doxygen/deal.II/CodeGallery.html){ .md-button .md-button--primary .center }<br>
+[:fontawesome-solid-image: Tutorials](https://www.dealii.org/developer/doxygen/deal.II/Tutorial.html){ .md-button .md-button--primary .center }<br>
 - how deal.II can be used
 { .card }
 
