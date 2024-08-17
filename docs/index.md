@@ -1,8 +1,8 @@
-<b>What it is</b>: A C++ software library supporting the creation of finite element codes and an open community of users and developers. (Learn more.)
+<b>What it is</b>: A C++ software library supporting the creation of finite element codes and an open community of users and developers. ([About deal.II](./about.md))
 
-<b>Mission</b>: To provide well-documented tools to build finite element codes for a broad variety of PDEs, from laptops to supercomputers.
+<b>Mission</b>: To provide well-documented tools to build finite element codes for a broad variety of PDEs, from laptops to supercomputers. ([deal.II documentation](https://dealii.org/current/doxygen/deal.II))
 
-<b>Vision</b>: To create an open, inclusive, participatory community providing users and developers with a state-of-the-art, comprehensive software library that constitutes the go-to solution for all finite element problems.
+<b>Vision</b>: To create an open, inclusive, participatory community providing users and developers with a state-of-the-art, comprehensive software library that constitutes the go-to solution for all finite element problems. ([Participate in deal.II](./participate.md))
 
 <div class="grid" markdown>
 
@@ -10,16 +10,16 @@
 deal.II is open source and available for free!
 { .card }
 
-[:fontawesome-solid-book: Documentation](https://dealii.org/developer/doxygen/deal.II){ .md-button .md-button--primary .center }<br>
-Check out our documentation.
+[:fontawesome-solid-book: Documentation](https://dealii.org/current/doxygen/deal.II){ .md-button .md-button--primary .center }<br>
+deal.II has extensive documentation!
 { .card }
 
 [:fontawesome-solid-paper-plane: Participate](./participate.md){ .md-button .md-button--primary .center }<br>
-deal.II is a community project. We welcome all who want to participate!
+deal.II is a community project and welcomes participation!
 { .card }
 
 [:material-help: Help](./help.md){ .md-button .md-button--primary .center }<br>
-There are many resources for learning deal.II and asking for help.
+deal.II provides resources to learn and ask for help!
 { .card }
 
 </div>
