@@ -4,8 +4,8 @@ repo_name: dealii/dealii
 repo_url:  https://github.com/dealii/dealii
 plugins: []
 nav:
-  - index.md
-  - Info:
+  - deal.II:
+    - deal.II: index.md
     - About: ./about.md
     - News: ./news.md
     - Help: ./help.md
