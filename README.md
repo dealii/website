@@ -28,5 +28,6 @@ If you want to add to the timeline, access this google document, and ask for acc
 This is generated from this template:
 
 https://timeline.knightlab.com/#help
+https://timeline.knightlab.com/docs/using-spreadsheets.html#title_slides
 
 
