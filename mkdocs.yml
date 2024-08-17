@@ -6,7 +6,7 @@ plugins: []
 nav:
   - Home:
     - deal.II:
-      - deal.II: index.md
+      - index.md
       - About: ./about.md
       - News: ./news.md
     - Help:

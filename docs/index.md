@@ -1,3 +1,8 @@
+---
+title: deal.II
+---
+#
+
 <b>What it is</b>: A C++ software library supporting the creation of finite element codes and an open community of users and developers. ([About deal.II](./about.md))
 
 <b>Mission</b>: To provide well-documented tools to build finite element codes for a broad variety of PDEs, from laptops to supercomputers. ([deal.II documentation](https://dealii.org/current/doxygen/deal.II))
