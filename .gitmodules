@@ -1,0 +1,4 @@
+[submodule "docs/large_assets"]
+	path = docs/large_assets
+	url = ../website-large_assets.git
+	branch = main
