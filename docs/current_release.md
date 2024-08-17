@@ -8,7 +8,7 @@ deal.II 9.6.0 was released Aug 11, 2024. See all significant changes in the [Cha
 [:octicons-download-16: Download](download.md){ .md-button .md-button--primary .center }<br>
 { .card }
 
-[:fontawesome-solid-book: README](https://www.dealii.https://www.dealii.org/current/readme.html){ .md-button .md-button--primary .center }<br>
+[:fontawesome-solid-book: README](https://www.dealii.org/current/readme.html){ .md-button .md-button--primary .center }<br>
 { .card }
 
 [:fontawesome-solid-code: Documentation](https://www.dealii.org/current/index.html){ .md-button .md-button--primary .center }<br>
