@@ -13,9 +13,9 @@ Downloads
 Current Release: 9.6.0
 ----------------------
 
-Sources |   <span style="font-weight:normal">dealii-9.6.0.tar.gz:  [mirror](downloads/dealii-9.6.0.tar.gz), [github](https://github.com/dealii/dealii/releases/download/v9.6.0/dealii-9.6.0.tar.gz) <br> (PGP signature file: [mirror](downloads/dealii-9.6.0.tar.gz.asc), [github]("https://github.com/dealii/dealii/releases/download/v9.6.0/dealii-9.6.0.tar.gz.asc")) <br> August 11, 2024, 39MB. <br> sha256: 675323f0eb8eed2cfc93e2ced07a0ec5727c6a566ff9e7786c01a2ddcde17bed  <br> See [README](/9.6.0/readme.html) for installation instructions or open <code>doc/readme.html</code> after unpacking </span>|
+Sources |   <span style="font-weight:normal">dealii-9.6.0.tar.gz:  [mirror](/downloads/dealii-9.6.0.tar.gz), [github](https://github.com/dealii/dealii/releases/download/v9.6.0/dealii-9.6.0.tar.gz) <br> (PGP signature file: [mirror](/downloads/dealii-9.6.0.tar.gz.asc), [github]("https://github.com/dealii/dealii/releases/download/v9.6.0/dealii-9.6.0.tar.gz.asc")) <br> August 11, 2024, 39MB. <br> sha256: 675323f0eb8eed2cfc93e2ced07a0ec5727c6a566ff9e7786c01a2ddcde17bed  <br> See [README](/9.6.0/readme.html) for installation instructions or open <code>doc/readme.html</code> after unpacking </span>|
 -----------: |:-------------| 
-<strong>Offline documentation</strong>      | dealii-9.6.0-offline_documentation.tar.gz: [mirror](downloads/dealii-9.6.0-offline_documentation.tar.gz), [github](https://github.com/dealii/dealii/releases/download/v9.6.0/dealii-9.6.0-offline_documentation.tar.gz) <br>  (PGP signature file: [mirror](downloads/dealii-9.6.0-offline_documentation.tar.gz.asc), [github](https://github.com/dealii/dealii/releases/download/v9.6.0/dealii-9.6.0-offline_documentation.tar.gz.asc)) <br>   August 11, 2024, 427MB. <br> sha256:&nbsp;ce83350f58862ebcb06f05955f03532a93695b0f7cffe772ccee2386d12a4e90 | 
+<strong>Offline documentation</strong>      | dealii-9.6.0-offline_documentation.tar.gz: [mirror](/downloads/dealii-9.6.0-offline_documentation.tar.gz), [github](https://github.com/dealii/dealii/releases/download/v9.6.0/dealii-9.6.0-offline_documentation.tar.gz) <br>  (PGP signature file: [mirror](/downloads/dealii-9.6.0-offline_documentation.tar.gz.asc), [github](https://github.com/dealii/dealii/releases/download/v9.6.0/dealii-9.6.0-offline_documentation.tar.gz.asc)) <br>   August 11, 2024, 427MB. <br> sha256:&nbsp;ce83350f58862ebcb06f05955f03532a93695b0f7cffe772ccee2386d12a4e90 | 
 
 Previous versions
 -----------------
@@ -23,7 +23,7 @@ Previous versions
   Older deal.II releases can be found on the
                 <a href="https://github.com/dealii/dealii/releases">Github release page</a>,
                 or on the
-                <a href="downloads/">mirror</a>.
+                <a href="/downloads/">mirror</a>.
 
 
 Development sources
@@ -66,20 +66,20 @@ Installers and images
                   <td>
                     dealii-9.5.0-ventura-intel.dmg, see
                     <a
-                      href="downloads/darwin-images/dealii-9.5.0-ventura-intel.dmg">mirror</a>,
+                      href="/downloads/darwin-images/dealii-9.5.0-ventura-intel.dmg">mirror</a>,
                     <a href="https://github.com/dealii/dealii/releases/download/v9.5.0/dealii-9.5.0-ventura-intel.dmg">github</a>
                     <br/>
                     (PGP signature file:
-                    <a href="downloads/darwin-images/dealii-9.5.0-ventura-intel.dmg.asc">mirror</a>,
+                    <a href="/downloads/darwin-images/dealii-9.5.0-ventura-intel.dmg.asc">mirror</a>,
                     <a href="https://github.com/dealii/dealii/releases/download/v9.5.0/dealii-9.5.0-ventura-intel.dmg.asc">github</a>)
                     <br/>
                     dealii-9.5.0-ventura-arm64.dmg, see
                     <a
-                      href="downloads/darwin-images/dealii-9.5.0-ventura-arm64.dmg">mirror</a>,
+                      href="/downloads/darwin-images/dealii-9.5.0-ventura-arm64.dmg">mirror</a>,
                     <a href="https://github.com/dealii/dealii/releases/download/v9.5.0/dealii-9.5.0-ventura-arm64.dmg">github</a>
                     <br/>
                     (PGP signature file:
-                    <a href="downloads/darwin-images/dealii-9.5.0-ventura-arm64.dmg.asc">mirror</a>,
+                    <a href="/downloads/darwin-images/dealii-9.5.0-ventura-arm64.dmg.asc">mirror</a>,
                     <a href="https://github.com/dealii/dealii/releases/download/v9.5.0/dealii-9.5.0-ventura-arm64.dmg.asc">github</a>)
                     <br/>
                     July 14, 2023, 848MB.
