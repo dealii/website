@@ -1,4 +1,4 @@
-Gallery
-===========
+Image Gallery
+=============
 
 TODO

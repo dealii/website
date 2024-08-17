@@ -16,18 +16,25 @@ nav:
     - Team: ./team.md
     - Wiki: https://github.com/dealii/dealii/wiki
     - Funding: ./funding
-  - Current Release (9.6): ./current_release.md
-  - Documentation: https://www.dealii.org/current/doxygen/deal.II/index.html
-  - Gallery: ./gallery.md
-  - Applications: ./applications.md
+  - Current Release (9.6):
+    - ./current_release.md
+    - Download: ./download.md
+    - README: https://www.dealii.org/current/readme.html
+    - Documentation: https://dealii.org/current/doxygen/deal.II
+    - Tutorials: https://www.dealii.org/current/doxygen/deal.II/Tutorial.html
+    - ./older_releases.md
   - Development:
     - development/index.md
     - GitHub repository: https://github.com/dealii/dealii
     - README: https://www.dealii.org/developer/readme.html
     - Documentation: https://dealii.org/developer/doxygen/deal.II
-    - Code Gallery: https://dealii.org/developer/doxygen/deal.II/CodeGallery.html
+    - Tutorials: https://www.dealii.org/developer/doxygen/deal.II/Tutorial.html
     - CDash: https://cdash.dealii.org/index.php?project=deal.II
     - Performance tests: https://dealii.org/performance_tests/graphs/
+  - Application Gallery:
+    - ./gallery.md
+    - Code Gallery: https://dealii.org/developer/doxygen/deal.II/CodeGallery.html
+    - ./applications.md
 markdown_extensions:
   - attr_list
   - md_in_html
