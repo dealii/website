@@ -22,9 +22,9 @@ nav:
   - Applications: ./applications.md
   - Development:
     - development/index.md
-    - Github repository: https://github.com/dealii/dealii
+    - GitHub repository: https://github.com/dealii/dealii
     - README: https://www.dealii.org/developer/readme.html
-    - Doxygen documentation: https://dealii.org/developer/doxygen/deal.II
+    - Documentation: https://dealii.org/developer/doxygen/deal.II
     - Code Gallery: https://dealii.org/developer/doxygen/deal.II/CodeGallery.html
     - CDash: https://cdash.dealii.org/index.php?project=deal.II
     - Performance tests: https://dealii.org/performance_tests/graphs/
