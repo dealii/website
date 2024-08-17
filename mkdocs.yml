@@ -19,7 +19,7 @@ nav:
       - Participate: participate.md
       - Publications: publications.md
       - License: https://github.com/dealii/dealii/blob/master/LICENSE.md
-    - Funding: ./funding
+    - Funding: ./funding.md
   - Current Release (9.6):
     - ./current_release.md
     - Download: ./download.md
