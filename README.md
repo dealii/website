@@ -24,3 +24,9 @@ and you should see something like
 
 If you want to add to the timeline, access this google document, and ask for access write permission:
 <https://docs.google.com/spreadsheets/d/1FYT2_aIxZT4VFJeJDrqAu5out9HwCDwsxWU299e5hlk/edit?gid=0#gid=0>
+
+This is generated from this template:
+
+https://timeline.knightlab.com/#help
+
+
