@@ -16,7 +16,7 @@ nav:
     - Team: ./team.md
     - Wiki: https://github.com/dealii/dealii/wiki
     - Funding: ./funding
-  - Current (9.6): ./current_release.md
+  - Current Release (9.6): ./current_release.md
   - Documentation: https://www.dealii.org/current/doxygen/deal.II/index.html
   - Gallery: ./gallery.md
   - Applications: ./applications.md
