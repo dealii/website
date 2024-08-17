@@ -33,3 +33,4 @@ Beyond this, deal.II has also been supported by some dedicated projects that hav
 ![KAUST logo](assets/images/logos/kaust.png){ width="400" }
 ![MNiSW logo](assets/images/logos/MNiSW.png){ width="300" }
 ![openship logo](assets/images/logos/openship.png){ width="150" }
+![SPPEXA logo](assets/images/logos/sppexa.png){ width="150" }
