@@ -4,17 +4,21 @@ repo_name: dealii/dealii
 repo_url:  https://github.com/dealii/dealii
 plugins: []
 nav:
-  - deal.II:
-    - deal.II: index.md
-    - About: ./about.md
-    - News: ./news.md
-    - Help: ./help.md
-    - FAQ: https://github.com/dealii/dealii/wiki/Frequently-Asked-Questions
-    - Participate: participate.md
-    - Publications: publications.md
-    - License: https://github.com/dealii/dealii/blob/master/LICENSE.md
-    - Team: ./team.md
-    - Wiki: https://github.com/dealii/dealii/wiki
+  - Home:
+    - deal.II:
+      - deal.II: index.md
+      - About: ./about.md
+      - News: ./news.md
+    - Help:
+      - ./help.md
+      - FAQ: https://github.com/dealii/dealii/wiki/Frequently-Asked-Questions
+      - Wiki: https://github.com/dealii/dealii/wiki
+      - ./contact.md
+    - Community:
+      - Team: ./team.md
+      - Participate: participate.md
+      - Publications: publications.md
+      - License: https://github.com/dealii/dealii/blob/master/LICENSE.md
     - Funding: ./funding
   - Current Release (9.6):
     - ./current_release.md
