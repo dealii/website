@@ -8,11 +8,13 @@ Beyond this, deal.II has also been supported by some dedicated projects that hav
 
 - The Exa-DG project of the DFG priority program SPPEXA.
 
-- National Science Foundation through award OCI-1148116.
+- National Science Foundation through award [OAC-1835673](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1835673&HistoricalAwards=false) / [OAC-2015848](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2015848&HistoricalAwards=false)
+
+- National Science Foundation through award [OCI-1148116](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1148116&HistoricalAwards=false).
 
 - European Research Council (ERC) through the Advanced Grant 289049 MOCOPOLY.
 
-- The Computational Infrastructure in Geodynamics initiative (CIG), through the National Science Foundation under Awards No. EAR-0949446, EAR-1550901, and EAR-2149126 via The University of California - Davis.
+- The [Computational Infrastructure in Geodynamics initiative (CIG)](https://geodynamics.org/), through the National Science Foundation under Awards No. EAR-0949446, EAR-1550901, and EAR-2149126 via The University of California - Davis.
 
 - The Polish Ministry of Science and Higher Education has funded the development of eigenspectrum solvers under a grant "Finite element analysis of the quantum theory of finite electronic systems" (project number: N N519 402837).
 
