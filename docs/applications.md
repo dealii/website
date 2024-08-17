@@ -16,4 +16,5 @@ There are many outstanding applications that make use of deal.II. This is just a
 - [pi-DoMUS](https://github.com/mathLab/pi-DoMUS)
 - [preCICE](https://www.precice.org)
 - [PRISMS](http://www.prisms-center.org/#/ctools/software)
-- also see [Code Gallery](https://www.dealii.org/code-gallery.html)
+
+Also see [Code Gallery](https://www.dealii.org/code-gallery.html) for smaller example programs using deal.II.

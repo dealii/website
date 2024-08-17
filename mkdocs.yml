@@ -35,8 +35,9 @@ nav:
     - Tutorials: https://www.dealii.org/developer/doxygen/deal.II/Tutorial.html
     - CDash: https://cdash.dealii.org/index.php?project=deal.II
     - Performance tests: https://dealii.org/performance_tests/graphs/
-  - Application Gallery:
-    - ./gallery.md
+  - Gallery & Applications:
+    - ./gallery_applications.md
+    - Image Gallery: ./gallery.md
     - Code Gallery: https://dealii.org/developer/doxygen/deal.II/CodeGallery.html
     - ./applications.md
 markdown_extensions:
