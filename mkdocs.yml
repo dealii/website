@@ -35,10 +35,10 @@ nav:
     - CDash: https://cdash.dealii.org/index.php?project=deal.II
     - Performance tests: https://dealii.org/performance_tests/graphs/
   - Gallery & Applications:
-    - gallery_applications.md
-    - Image Gallery: gallery.md
+    - gallery_applications/index.md
+    - Image Gallery: gallery_applications/gallery.md
     - Code Gallery: https://dealii.org/developer/doxygen/deal.II/CodeGallery.html
-    - applications.md
+    - gallery_applications/applications.md
 markdown_extensions:
   - attr_list
   - md_in_html
