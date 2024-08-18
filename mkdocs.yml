@@ -4,10 +4,10 @@ repo_name: dealii/dealii
 repo_url:  https://github.com/dealii/dealii
 plugins: []
 nav:
-  - Home:
-    - index.md
-    - About: about.md
-    - News: news.md
+  - Home: index.md
+  - About:
+    - about/index.md
+    - News: about/news.md
     - Getting Help:
       - getting_help/index.md
       - FAQ: https://github.com/dealii/dealii/wiki/Frequently-Asked-Questions
@@ -17,7 +17,7 @@ nav:
       - community/index.md
       - Team: community/team.md
       - Publications: community/publications.md
-    - Funding: funding.md
+    - Funding: about/funding.md
   - Current Release (9.6):
     - current_release/index.md
     - Download: current_release/download.md
