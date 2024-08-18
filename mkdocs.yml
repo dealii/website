@@ -5,28 +5,27 @@ repo_url:  https://github.com/dealii/dealii
 plugins: []
 nav:
   - Home:
+    - index.md
     - deal.II:
-      - index.md
-      - About: ./about.md
-      - News: ./news.md
-    - Help:
-      - ./help.md
+      - About: about.md
+      - News: news.md
+    - Getting Help:
+      - help.md
       - FAQ: https://github.com/dealii/dealii/wiki/Frequently-Asked-Questions
       - Wiki: https://github.com/dealii/dealii/wiki
-      - ./contact.md
+      - Contact: contact.md
     - Community:
-      - Team: ./team.md
+      - Team: team.md
       - Participate: participate.md
       - Publications: publications.md
-      - License: https://github.com/dealii/dealii/blob/master/LICENSE.md
-    - Funding: ./funding.md
+    - Funding: funding.md
   - Current Release (9.6):
-    - ./current_release.md
-    - Download: ./download.md
+    - current_release/index.md
+    - Download: current_release/download.md
     - README: https://www.dealii.org/current/readme.html
     - Documentation: https://dealii.org/current/doxygen/deal.II
     - Tutorials: https://www.dealii.org/current/doxygen/deal.II/Tutorial.html
-    - ./older_releases.md
+    - current_release/older_releases.md
   - Development:
     - development/index.md
     - GitHub repository: https://github.com/dealii/dealii
@@ -36,10 +35,10 @@ nav:
     - CDash: https://cdash.dealii.org/index.php?project=deal.II
     - Performance tests: https://dealii.org/performance_tests/graphs/
   - Gallery & Applications:
-    - ./gallery_applications.md
-    - Image Gallery: ./gallery.md
+    - gallery_applications.md
+    - Image Gallery: gallery.md
     - Code Gallery: https://dealii.org/developer/doxygen/deal.II/CodeGallery.html
-    - ./applications.md
+    - applications.md
 markdown_extensions:
   - attr_list
   - md_in_html

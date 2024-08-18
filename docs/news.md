@@ -3,7 +3,7 @@ News on deal.II
 ===============
 
 2024/08/11: **Version 9.6.0 released**:
-deal.II version 9.6.0 was released today. A full list of changes can be found [here](http://www.dealii.org/developer/doxygen/deal.II/changes_between_9_5_2_and_9_6_0.html) and a long description of changes is in the manuscript [here](https://www.dealii.org/deal95-preprint.pdf). Download links are on the [download](download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
+deal.II version 9.6.0 was released today. A full list of changes can be found [here](http://www.dealii.org/developer/doxygen/deal.II/changes_between_9_5_2_and_9_6_0.html) and a long description of changes is in the manuscript [here](https://www.dealii.org/deal95-preprint.pdf). Download links are on the [download](current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
 
 2024/04/17: **11th deal.II users and developers workshop**:
 The 11th deal.II Users and Developers Workshop will take place at Colorado State University, Colorado, USA, August 12-16, 2024. For more information, see [here](https://www.dealii.org/workshop-2024).
@@ -12,7 +12,7 @@ The 11th deal.II Users and Developers Workshop will take place at Colorado State
 Wolfgang Bangerth taught [a short course on the "Finite Element Method in Scientific Computing"](https://civil.iitm.ac.in/pcoe/smge/term-course-2024.php) in Chennai, India, April 29 – May 03, 2024.
 
 2023/07/07: **Version 9.5.0 released**:
-deal.II version 9.5.0 was released today. A full list of changes can be found [here](http://www.dealii.org/developer/doxygen/deal.II/changes_between_9_4_0_and_9_5_0.html) and a long description of changes is in the manuscript [here](https://www.dealii.org/deal95-preprint.pdf). Download links are on the [download](download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
+deal.II version 9.5.0 was released today. A full list of changes can be found [here](http://www.dealii.org/developer/doxygen/deal.II/changes_between_9_4_0_and_9_5_0.html) and a long description of changes is in the manuscript [here](https://www.dealii.org/deal95-preprint.pdf). Download links are on the [download](current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
 
 2023/05/23: 10th deal.II users and developers workshop
     The 10th deal.II Users and Developers Workshop will take place at Leibniz University Hannover, Germany, September 11-15, 2023. For more information, see here. 
