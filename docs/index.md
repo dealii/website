@@ -7,7 +7,7 @@ title: deal.II
 
 <b>Mission</b>: To provide well-documented tools to build finite element codes for a broad variety of PDEs, from laptops to supercomputers. ([deal.II documentation](https://dealii.org/current/doxygen/deal.II))
 
-<b>Vision</b>: To create an open, inclusive, participatory community providing users and developers with a state-of-the-art, comprehensive software library that constitutes the go-to solution for all finite element problems. ([Participate in deal.II](participate.md))
+<b>Vision</b>: To create an open, inclusive, participatory community providing users and developers with a state-of-the-art, comprehensive software library that constitutes the go-to solution for all finite element problems. ([Participate in deal.II](community/index.md))
 
 <div class="grid" markdown>
 
@@ -19,11 +19,11 @@ deal.II is open source and available for free!
 deal.II has extensive documentation!
 { .card }
 
-[:fontawesome-solid-paper-plane: Participate](participate.md){ .md-button .md-button--primary .center }<br>
+[:fontawesome-solid-paper-plane: Participate](community/index.md){ .md-button .md-button--primary .center }<br>
 deal.II is a community project and welcomes participation!
 { .card }
 
-[:material-help: Help](help.md){ .md-button .md-button--primary .center }<br>
+[:material-help: Help](getting_help/index.md){ .md-button .md-button--primary .center }<br>
 deal.II provides resources to learn and ask for help!
 { .card }
 

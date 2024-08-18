@@ -6,18 +6,17 @@ plugins: []
 nav:
   - Home:
     - index.md
-    - deal.II:
-      - About: about.md
-      - News: news.md
+    - About: about.md
+    - News: news.md
     - Getting Help:
-      - help.md
+      - getting_help/index.md
       - FAQ: https://github.com/dealii/dealii/wiki/Frequently-Asked-Questions
       - Wiki: https://github.com/dealii/dealii/wiki
-      - Contact: contact.md
+      - Contact: getting_help/contact.md
     - Community:
-      - Team: team.md
-      - Participate: participate.md
-      - Publications: publications.md
+      - community/index.md
+      - Team: community/team.md
+      - Publications: community/publications.md
     - Funding: funding.md
   - Current Release (9.6):
     - current_release/index.md

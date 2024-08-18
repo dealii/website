@@ -7,7 +7,7 @@ Downloads
 
 !!! info
 
-    We provide various options to help you with the installation of deal.II and its dependencies. Please see the [Getting deal.II wiki page](https://github.com/dealii/dealii/wiki/Getting-deal.II) for more information and do not hesitate to ask on the [deal.II discussion group for help](../help.md).
+    We provide various options to help you with the installation of deal.II and its dependencies. Please see the [Getting deal.II wiki page](https://github.com/dealii/dealii/wiki/Getting-deal.II) for more information and do not hesitate to ask on the [deal.II discussion group for help](../getting_help/index.md).
 
 
 Current Release: 9.6.0

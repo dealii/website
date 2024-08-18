@@ -5,6 +5,6 @@ If you can't find a question answered in any of the places above, can't find whe
 
 The development of the library source code is done on the [github.com deal.II project](https://github.com/dealii/dealii) using Issues and Pull-Requests.
 
-For questions or concerns that you don't want to discuss on a public mailing list feel free to write an e-mail to any of the [Principal Developers](team.md#principal-developers) directly.
+For questions or concerns that you don't want to discuss on a public mailing list feel free to write an e-mail to any of the [Principal Developers](../community/team.md#principal-developers) directly.
 
 We appreciate comments and suggestions on deal.II. They can be addressed to either of the addresses above, depending on their public or private nature.
