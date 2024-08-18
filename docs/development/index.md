@@ -19,12 +19,16 @@ Development
 - how deal.II can be used
 { .card }
 
-[:fontawesome-solid-check: CDash](https://cdash.dealii.org/index.php?project=deal.II){ .md-button .md-button--primary .center }<br>
-- where test results are reported
+[:fontawesome-solid-chart-line: Regression tests](https://dealii.org/regression_tests/reports/render.html?#!current.md){ .md-button .md-button--primary .center }<br>
+- status of daily regression testsuite run
 { .card }
 
-[:fontawesome-solid-chart-line: Performance tests](https://dealii.org/performance_tests/graphs/){ .md-button .md-button--primary .center }<br>
+[:fontawesome-solid-chart-line: Performance tests](https://dealii.org/performance_tests/reports/render.html?#!current.md){ .md-button .md-button--primary .center }<br>
 - to track regressions in performance over time
+{ .card }
+
+[:fontawesome-solid-check: CDash](https://cdash.dealii.org/index.php?project=deal.II){ .md-button .md-button--primary .center }<br>
+- where test results are reported
 { .card }
 
 </div>
