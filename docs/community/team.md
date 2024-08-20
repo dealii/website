@@ -1,7 +1,6 @@
-The developer team
-=========================
+deal.II is a global project: It is run by a group of principal developers, and a very large number of contributors have provided substantial patches over the years.
 
-deal.II is a global project. It is run by a group of principal developers. Former developers with significant contributions in the past who are no longer active, are listed under developers emeriti. A large number of contributors have provided substantial patches over the years. These groups are listed below.
+[TOC]
 
 
 Principal Developers
