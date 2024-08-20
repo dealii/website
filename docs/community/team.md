@@ -9,43 +9,43 @@ Principal Developers
 
 <div class="grid cards" markdown>
 
-__Daniel Arndt__
+[__Daniel Arndt__](https://www.ornl.gov/staff-profile/daniel-arndt)
 <br>Oak Ridge National Laboratory, USA (since 2016)
 { .card }
 
-__Wolfgang Bangerth__
+[__Wolfgang Bangerth__](http://www.math.colostate.edu/~bangerth)
 <br>Colorado State University, CO, USA (since 1997)
 { .card }
 
-__Bruno Blais__
+[__Bruno Blais__](https://www.polymtl.ca/expertises/en/blais-bruno)
 <br>Polytechnique Montréal, Canada (since 2023)
 { .card }
 
-__Marc Fehling__
+[__Marc Fehling__](https://marcfehling.github.io/)
 <br>Charles University, Czech Republic (since 2021)
 { .card }
 
-__Rene Gassmoeller__
+[__Rene Gassmoeller__](https://gassmoeller.github.io/)
 <br>GEOMAR Helmholtz Centre for Ocean Research, Kiel, Germany (since 2023)
 { .card }
 
-__Timo Heister__
+[__Timo Heister__](http://www.math.clemson.edu/~heister)
 <br>Clemson University, SC, USA (since 2012)
 { .card }
 
-__Luca Heltai__
+[__Luca Heltai__](https://sites.google.com/view/luca-heltai)
 <br>University of Pisa, Italy (since 2013)
 { .card }
 
-__Martin Kronbichler__
+[__Martin Kronbichler__](https://math.ruhr-uni-bochum.de/en/fakultaet/arbeitsbereiche/numerik/gruppe-kronbichler/team/prof-dr-martin-kronbichler/)
 <br>Ruhr University Bochum, Germany (since 2013)
 { .card }
 
-__Matthias Maier__
+[__Matthias Maier__](http:///www.math.tamu.edu/~maier/)
 <br>Texas A&M University, College Station, TX, USA (since 2013)
 { .card }
 
-__Peter Munch__
+[__Peter Munch__](https://peterrum.github.io/)
 <br>Uppsala University, Sweden (since 2020)
 { .card }
 
@@ -53,11 +53,11 @@ __Jean-Paul Pelteret__
 <br>(since 2016)
 { .card }
 
-__Bruno Turcksin__
+[__Bruno Turcksin__](https://www.ornl.gov/staff-profile/bruno-r-turcksin)
 <br>Oak Ridge National Laboratory, USA (since 2013)
 { .card }
 
-__David Wells__
+[__David Wells__](https://www.wellsmath.com)
 <br>University of North Carolina, Chapel Hill, NC, USA (since 2015)
 { .card }
 
