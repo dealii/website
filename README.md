@@ -21,7 +21,7 @@ and you should see something like
 
 ## Notes
 
- - Large asse files are stored in a separate git repository
+ - Large asset files are stored in a separate git repository
    <https://github.com/dealii/website-large_assets>
 
    You can check out the repository as a git submodule:
