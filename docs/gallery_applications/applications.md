@@ -17,4 +17,4 @@ There are many outstanding applications that make use of deal.II. This is just a
 - [preCICE](https://www.precice.org)
 - [PRISMS](http://www.prisms-center.org/#/ctools/software)
 
-Also see [Code Gallery](https://www.dealii.org/code-gallery.html) for smaller example programs using deal.II.
+Also see [Code Gallery](https://dealii.org/developer/doxygen/deal.II/CodeGallery.html) for smaller example programs using deal.II.
