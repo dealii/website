@@ -10,6 +10,7 @@ There are many outstanding applications that make use of deal.II. This is just a
 - [DOpElib](https://winnifried.github.io/dopelib/)
 - [ExaDG](https://github.com/exadg/exadg)
 - [hyper.deal](https://github.com/hyperdeal/hyperdeal)
+- [ideal.II](https://instatdealii.github.io/idealii/dev/)
 - [Lethe](https://github.com/lethe-cfd/lethe)
 - [life<sup>x</sup>](https://lifex.gitlab.io/)
 - [OpenFCST](http://www.openfcst.mece.ualberta.ca/)
