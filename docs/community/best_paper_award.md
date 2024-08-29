@@ -28,7 +28,7 @@ The best deal.II-based paper from 2023 is the following:
 > [[URL]](https://www.sciencedirect.com/science/article/pii/S0045782523001068)
 > [[Preprint]](https://arxiv.org/abs/2207.12460)
 >
-> ![An image from the publication](../large-assets/best-paper-award/2023/figure_res_baseline_active_tension.png)
+> ![An image from the publication](../large_assets/best-paper-award/2023/figure_res_baseline_active_tension.png)
 
 
 We also recognize the following runner-up paper:
@@ -42,4 +42,4 @@ We also recognize the following runner-up paper:
 > [[DOI: 10.1007/s10237-023-01717-2]](http://doi.org/10.1007/s10237-023-01717-2)
 > [[URL]](https://link.springer.com/article/10.1007/s10237-023-01717-2)
 >
-> ![An image from the publication](../large-assets/best-paper-award/2023/comparison.png)
+> ![An image from the publication](../large_assets/best-paper-award/2023/comparison.png)
