@@ -15,6 +15,7 @@ symlinks = [
     external_path + "/documentation/current",
     external_path + "/documentation/developer",
     external_path + "/external_assets/downloads",
+    external_path + "/external_assets/fancy-index",
     external_path + "/external_assets/performance_tests",
     external_path + "/external_assets/regression_tests",
     external_path + "/website-build.log",
