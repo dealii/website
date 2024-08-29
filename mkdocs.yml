@@ -3,6 +3,8 @@ site_url:  https://www.dealii.org/
 repo_name: dealii/dealii
 repo_url:  https://github.com/dealii/dealii
 plugins: []
+hooks:
+  - hook_create_symlinks.py
 nav:
   - Home: index.md
   - About:
@@ -17,7 +19,7 @@ nav:
       - community/index.md
       - Team: community/team.md
       - Publications: community/publications.md
-      - Best papers: community/best_paper_award.md      
+      - Best papers: community/best_paper_award.md
     - Funding: about/funding.md
   - Current Release (9.6):
     - current_release/index.md
