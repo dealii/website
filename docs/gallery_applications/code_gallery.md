@@ -25,22 +25,22 @@ As a general rule:
   See [the code gallery repository](https://github.com/dealii/code-gallery) for instructions on how to contribute.
 
 
-  <div class="grid" markdown>
-  
-  [:octicons-image-16: Codes](https://dealii.org/developer/doxygen/deal.II/CodeGallery.html){ .md-button .md-button--primary .center }<br>
-  See the list of programs that are part of the code gallery. 
-  { .card }
-  
-  [:octicons-download-16: Download](#downloading-the-code-gallery){ .md-button .md-button--primary .center }<br>
-  Downloading the programs of the code gallery is easy. 
-  { .card }
-  
-  [:fontawesome-solid-paper-plane: Contribute](https://github.com/dealii/code-gallery){ .md-button .md-button--primary .center }<br>
-  Contribute your own codes as a starting point for others. 
-  { .card }
-  
-  
-  </div>
+<div class="grid" markdown>
+
+[:octicons-image-16: Codes](https://dealii.org/developer/doxygen/deal.II/CodeGallery.html){ .md-button .md-button--primary .center }<br>
+See the list of programs that are part of the code gallery. 
+{ .card }
+
+[:octicons-download-16: Download](#downloading-the-code-gallery){ .md-button .md-button--primary .center }<br>
+Downloading the programs of the code gallery is easy. 
+{ .card }
+
+[:fontawesome-solid-paper-plane: Contribute](https://github.com/dealii/code-gallery){ .md-button .md-button--primary .center }<br>
+Contribute your own codes as a starting point for others. 
+{ .card }
+
+
+</div>
 
 
 Downloading the code gallery
