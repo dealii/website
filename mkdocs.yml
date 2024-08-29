@@ -39,7 +39,7 @@ nav:
   - Gallery & Applications:
     - gallery_applications/index.md
     - Image Gallery: gallery_applications/gallery.md
-    - Code Gallery: https://dealii.org/developer/doxygen/deal.II/CodeGallery.html
+    - Code Gallery: gallery_applications/code_gallery.md
     - gallery_applications/applications.md
 markdown_extensions:
   - attr_list
