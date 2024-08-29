@@ -53,6 +53,11 @@ def on_post_build(**kwargs):
     for src in symlinks:
         dst = os.path.basename(src)
         dst = os.path.join(site_dir, dst)
+
+        if os.path.lexists(dst):
+            if not os.path.islink(dst):
+                raise Exception("Symlink target »" + dst + "« exists and is not a symlink")
+            os.remove(dst)
+
         print(dst, " -> ", src)
         os.symlink(src, dst)
-
