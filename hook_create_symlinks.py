@@ -1,6 +1,23 @@
 import os
 
+external_path = "/srv/dealii"
+
 symlinks = [
+    external_path + "/documentation/8.5.1",
+    external_path + "/documentation/9.0.0",
+    external_path + "/documentation/9.1.1",
+    external_path + "/documentation/9.2.0",
+    external_path + "/documentation/9.3.3",
+    external_path + "/documentation/9.4.0",
+    external_path + "/documentation/9.4.1",
+    external_path + "/documentation/9.5.0",
+    external_path + "/documentation/9.6.0",
+    external_path + "/documentation/current",
+    external_path + "/documentation/developer",
+    external_path + "/external_assets/downloads",
+    external_path + "/external_assets/performance_tests",
+    external_path + "/external_assets/regression_tests",
+    external_path + "/website-build.log",
     "large_assets/release-papers/deal83-preprint.pdf",
     "large_assets/release-papers/deal84-preprint.pdf",
     "large_assets/release-papers/deal85-preprint.pdf",
