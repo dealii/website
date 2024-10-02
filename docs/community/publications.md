@@ -336,7 +336,7 @@ components of <abbr>deal.II</abbr>:
         DOI: <a href="https://doi.org/10.1016/j.camwa.2016.04.024">10.1016/j.camwa.2016.04.024</a>
         <!-- http://www.sciencedirect.com/science/article/pii/S089812211630205X -->
 
-        W. Bangerth, T. Heister
+-       W. Bangerth, T. Heister
         <br>
         <strong>What makes computational open source software libraries successful?</strong>
         <br>
