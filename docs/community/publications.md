@@ -434,7 +434,7 @@ Publications using deal.II
 
   <script type="text/javascript">
     var first_year = 1998;
-    var last_year  = 2024;
+    var last_year  = 2025;
 
     // set up the table's structure
     var table = [
@@ -465,7 +465,8 @@ Publications using deal.II
     ['2021',  0, 'blue'],
     ['2022',  0, 'blue'],
     ['2023',  0, 'silver'],
-    ['2024',  0, 'silver']
+    ['2024',  0, 'silver'],
+    ['2025',  0, 'silver']
     ];
 
     // now get the number of publications per year from the
