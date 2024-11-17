@@ -45,7 +45,7 @@ Principal Developers
 { .card }
 
 [__Peter Munch__](https://peterrum.github.io/)
-<br>Uppsala University, Sweden (since 2020)
+<br>Technical University of Berlin, Germany (since 2020)
 { .card }
 
 __Jean-Paul Pelteret__
