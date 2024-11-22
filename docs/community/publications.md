@@ -28,47 +28,30 @@ If you write a paper using results obtained with the help of
       <abbr>deal.II</abbr>, please cite one or more of the following
       references:
 
--       Daniel Arndt,
-        Wolfgang Bangerth,
-        Maximilian Bergbauer,
-        Marco Feder,
-        Marc Fehling,
-        Johannes Heinz,
-        Timo Heister,
-        Luca Heltai,
-        Martin Kronbichler,
-        Matthias Maier,
-        Peter Munch,
-        Jean-Paul Pelteret,
-        Bruno Turcksin,
-        David Wells,
-        Stefano Zampini
+-     Pasquale Claudio Africa,
+      Daniel Arndt,
+      Wolfgang Bangerth,
+      Bruno Blais,
+      Marc Fehling,
+      Rene Gassm&ouml;ller,
+      Timo Heister,
+      Luca Heltai,
+      Martin Kronbichler,
+      Matthias Maier,
+      Peter Munch,
+      Magdalena Schreter-Fleischhacker,
+      Jan Philipp Thiele,
+      Bruno Turcksin,
+      David Wells,
+      Vladimir Yushutin
         <br />
-        <strong>The <abbr>deal.II</abbr> Library, Version 9.5
+        <strong>The <abbr>deal.II</abbr> Library, Version 9.6
         </strong>
         <br>
-        Journal of Numerical Mathematics, vol. 31, no. 3, pages 231-246, 2023.
+        Journal of Numerical Mathematics, accepted for publication, 2024.
         <br>
-        <a href="https://doi.org/10.1515/jnma-2023-0089">DOI: 10.1515/jnma-2023-0089</a>;
-        <a href="https://dealii.org/deal95-preprint.pdf" target="_top">preprint</a>
+        <a href="https://dealii.org/deal96-preprint.pdf" target="_top">preprint</a>
         <br>
-``` bibtex        
-@Article{dealII95,
-  title   = {The \texttt{deal.II} Library, Version 9.5},
-  author  = {Daniel Arndt and Wolfgang Bangerth and Maximilian Bergbauer and
-             Marco Feder and Marc Fehling and Johannes Heinz and
-             Timo Heister and Luca Heltai and Martin Kronbichler and
-             Matthias Maier and Peter Munch and Jean-Paul Pelteret and
-             Bruno Turcksin and David Wells and Stefano Zampini},
-  journal = {Journal of Numerical Mathematics},
-  year    = {2023},
-  doi     = {10.1515/jnma-2023-0089},
-  pages   = {231--246},
-  volume  = {31},
-  number  = {3},
-  url     = {https://dealii.org/deal95-preprint.pdf}
-}
-```
 
 -       D. Arndt, W. Bangerth, D. Davydov, T. Heister,
         L. Heltai, M. Kronbichler, M. Maier,
@@ -100,6 +83,32 @@ If you write a paper using results obtained with the help of
 ```
 
 Older releases are announced in the following preprints:
+
+-       Daniel Arndt,
+        Wolfgang Bangerth,
+        Maximilian Bergbauer,
+        Marco Feder,
+        Marc Fehling,
+        Johannes Heinz,
+        Timo Heister,
+        Luca Heltai,
+        Martin Kronbichler,
+        Matthias Maier,
+        Peter Munch,
+        Jean-Paul Pelteret,
+        Bruno Turcksin,
+        David Wells,
+        Stefano Zampini
+        <br />
+        <strong>The <abbr>deal.II</abbr> Library, Version 9.5
+        </strong>
+        <br>
+        Journal of Numerical Mathematics, vol. 31, no. 3, pages 231-246, 2023.
+        <br>
+        <a href="https://doi.org/10.1515/jnma-2023-0089">DOI: 10.1515/jnma-2023-0089</a>;
+        <a href="https://dealii.org/deal95-preprint.pdf" target="_top">preprint</a>
+        <a
+          href="https://github.com/dealii/publication-list/blob/86416a8282a9f582e53495c991ce3406dbabe221/publications-2023.bib#L160-L173">bibtex</a>
 
 -       Daniel Arndt,
         Wolfgang Bangerth,
