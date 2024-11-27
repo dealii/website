@@ -48,10 +48,26 @@ If you write a paper using results obtained with the help of
         <strong>The <abbr>deal.II</abbr> Library, Version 9.6
         </strong>
         <br>
-        Journal of Numerical Mathematics, accepted for publication, 2024.
+        Journal of Numerical Mathematics, vol. 32, pp. 369-380, 2024.
         <br>
         <a href="https://dealii.org/deal96-preprint.pdf" target="_top">preprint</a>
         <br>
+```
+@Article{2024:africa.arndt.ea:deal,
+  author  = {Pasquale C. Africa and Daniel Arndt and Wolfgang Bangerth and Bruno Blais and
+             Marc Fehling and Rene Gassm{\"o}ller and Timo Heister and Luca Heltai and
+             Sebastian Kinnewig and Martin Kronbichler and Matthias Maier and Peter Munch and
+             Magdalena Schreter-Fleischhacker and Jan P. Thiele and Bruno Turcksin and
+             David Wells and Vladimir Yushutin},
+  title   = {The deal.II library, Version 9.6},
+  journal = {Journal of Numerical Mathematics},
+  year    = 2024,
+  volume  = 32,
+  number  = 4,
+  pages   = {369--380},
+  doi     = {10.1515/jnma-2024-0137}
+}
+```
 
 -       D. Arndt, W. Bangerth, D. Davydov, T. Heister,
         L. Heltai, M. Kronbichler, M. Maier,
