@@ -10,12 +10,12 @@ Downloads
     We provide various options to help you with the installation of deal.II and its dependencies. Please see the [Getting deal.II wiki page](https://github.com/dealii/dealii/wiki/Getting-deal.II) for more information and do not hesitate to ask on the [deal.II discussion group for help](../getting_help/index.md).
 
 
-Current Release: 9.6.0
+Current Release: 9.6.1
 ----------------------
 
-Sources |   <span style="font-weight:normal">dealii-9.6.0.tar.gz:  [mirror](/downloads/dealii-9.6.0.tar.gz), [github](https://github.com/dealii/dealii/releases/download/v9.6.0/dealii-9.6.0.tar.gz) <br> (PGP signature file: [mirror](/downloads/dealii-9.6.0.tar.gz.asc), [github]("https://github.com/dealii/dealii/releases/download/v9.6.0/dealii-9.6.0.tar.gz.asc")) <br> August 11, 2024, 39MB. <br> sha256: 675323f0eb8eed2cfc93e2ced07a0ec5727c6a566ff9e7786c01a2ddcde17bed  <br> See [README](/9.6.0/readme.html) for installation instructions or open <code>doc/readme.html</code> after unpacking </span>|
------------: |:-------------| 
-<strong>Offline documentation</strong>      | dealii-9.6.0-offline_documentation.tar.gz: [mirror](/downloads/dealii-9.6.0-offline_documentation.tar.gz), [github](https://github.com/dealii/dealii/releases/download/v9.6.0/dealii-9.6.0-offline_documentation.tar.gz) <br>  (PGP signature file: [mirror](/downloads/dealii-9.6.0-offline_documentation.tar.gz.asc), [github](https://github.com/dealii/dealii/releases/download/v9.6.0/dealii-9.6.0-offline_documentation.tar.gz.asc)) <br>   August 11, 2024, 427MB. <br> sha256:&nbsp;ce83350f58862ebcb06f05955f03532a93695b0f7cffe772ccee2386d12a4e90 | 
+Sources |   <span style="font-weight:normal">dealii-9.6.1.tar.gz:  [mirror](/downloads/dealii-9.6.1.tar.gz), [github](https://github.com/dealii/dealii/releases/download/v9.6.1/dealii-9.6.1.tar.gz) <br> (PGP signature file: [mirror](/downloads/dealii-9.6.1.tar.gz.asc), [github]("https://github.com/dealii/dealii/releases/download/v9.6.1/dealii-9.6.1.tar.gz.asc")) <br> December 11, 2024, 39MB. <br> sha256:&nbsp;9fcaa3968ac2eab41573b3614756a898a3ea91afcd9f3477ab2f30bb19aa669a <br> See [README](/9.6.0/readme.html) for installation instructions or open <code>doc/readme.html</code> after unpacking </span>|
+-----------: |:-------------|
+<strong>Offline documentation</strong>      | dealii-9.6.1-offline_documentation.tar.gz: [mirror](/downloads/dealii-9.6.1-offline_documentation.tar.gz), [github](https://github.com/dealii/dealii/releases/download/v9.6.1/dealii-9.6.1-offline_documentation.tar.gz) <br>  (PGP signature file: [mirror](/downloads/dealii-9.6.1-offline_documentation.tar.gz.asc), [github](https://github.com/dealii/dealii/releases/download/v9.6.1/dealii-9.6.1-offline_documentation.tar.gz.asc)) <br>   December 11, 2024, 427MB. <br> sha256:&nbsp;22480f71fb12c343e209dc06c96d14eeff3a310d1dd63048306a6a4c238b176f |
 
 Previous versions
 -----------------
