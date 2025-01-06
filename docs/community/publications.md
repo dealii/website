@@ -50,7 +50,9 @@ If you write a paper using results obtained with the help of
         <br>
         Journal of Numerical Mathematics, vol. 32, pp. 369-380, 2024.
         <br>
-        <a href="https://dealii.org/deal96-preprint.pdf" target="_top">preprint</a>
+        <a href="https://doi.org/10.1515/jnma-2024-0137">DOI: 10.1515/jnma-2024-0137</a>;
+        <a href="https://dealii.org/deal96-preprint.pdf" target="_top">preprint</a>;
+        <a href="https://github.com/dealii/publication-list/blob/c87698085be9d9b3553dc347ab2056f6ac9de519/publications-2024.bib#L17-L30">bibtex</a>
         <br>
 ```
 @Article{2024:africa.arndt.ea:deal,
@@ -122,7 +124,7 @@ Older releases are announced in the following preprints:
         Journal of Numerical Mathematics, vol. 31, no. 3, pages 231-246, 2023.
         <br>
         <a href="https://doi.org/10.1515/jnma-2023-0089">DOI: 10.1515/jnma-2023-0089</a>;
-        <a href="https://dealii.org/deal95-preprint.pdf" target="_top">preprint</a>
+        <a href="https://dealii.org/deal95-preprint.pdf" target="_top">preprint</a>;
         <a
           href="https://github.com/dealii/publication-list/blob/86416a8282a9f582e53495c991ce3406dbabe221/publications-2023.bib#L160-L173">bibtex</a>
 
