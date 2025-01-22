@@ -19,6 +19,9 @@ See all significant changes in the [Changelog](https://www.dealii.org/current/do
 [:fontawesome-solid-image: Tutorials](https://www.dealii.org/current/doxygen/deal.II/Tutorial.html){ .md-button .md-button--primary .center }<br>
 { .card }
 
+[:fontawesome-solid-image: Video lectures](https://www.math.colostate.edu/~bangerth/videos.html){ .md-button .md-button--primary .center }<br>
+{ .card }
+
 
 </div>
 

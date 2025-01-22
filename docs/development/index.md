@@ -19,6 +19,10 @@ Development
 - how deal.II can be used
 { .card }
 
+[:fontawesome-solid-image: Video lectures](https://www.math.colostate.edu/~bangerth/videos.html){ .md-button .md-button--primary .center }<br>
+- a set of lecture videos on deal.II and the finite element method
+{ .card }
+
 [:fontawesome-solid-chart-line: Regression tests](https://dealii.org/regression_tests/reports/render.html?#!current.md){ .md-button .md-button--primary .center }<br>
 - status of daily regression testsuite run
 { .card }
