@@ -39,6 +39,7 @@ symlinks = [
     "large_assets/workshops/workshop-2021",
     "large_assets/workshops/workshop-2023",
     "large_assets/workshops/workshop-2024",
+    "large_assets/reports",
     "large_assets/images",
 ]
 
