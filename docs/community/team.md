@@ -2,7 +2,6 @@ deal.II is a global project: It is run by a group of principal developers, and a
 
 [TOC]
 
-
 Principal Developers
 --------------------
 
@@ -32,7 +31,7 @@ Principal Developers
 <br>Clemson University, SC, USA (since 2012)
 { .card }
 
-[__Luca Heltai__](https://sites.google.com/view/luca-heltai)
+[__Luca Heltai__](https://luca-heltai.github.io/)
 <br>University of Pisa, Italy (since 2013)
 { .card }
 
