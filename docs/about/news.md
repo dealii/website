@@ -2,6 +2,17 @@
 News on deal.II
 ===============
 
+ 2025/03/03: **SIAM/ACM Prize in Computational Science and Engineering**:
+The principal developers of deal.II were awarded the
+[SIAM/ACM Prize in Computational Science and
+Engineering](https://www.siam.org/programs-initiatives/prizes-awards/major-prizes-lectures/siamacm-prize-in-computational-science-and-engineering/prize-history/)
+"for their highly impactful library supporting finite element
+calculations. The software achieved a very high standard of software
+quality and modularity by providing packaged algorithms and data
+structures in a comprehensive and well-documented manner that enables
+and elevates whole communities to achieve more computationally
+advanced models than they could possibly otherwise."
+
 2024/08/11: **Version 9.6.0 released**:
 deal.II version 9.6.0 was released today. A full list of changes can be found [here](http://www.dealii.org/developer/doxygen/deal.II/changes_between_9_5_2_and_9_6_0.html) and a long description of changes is in the manuscript [here](https://www.dealii.org/deal96-preprint.pdf). Download links are on the [download](../current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
 
