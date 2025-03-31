@@ -8,9 +8,9 @@ deal.II — a name that originally meant to indicate that it is the successor to
 
 The main aim of deal.II is to enable rapid development of modern finite element codes, using among other aspects adaptive meshes and a wide array of tools classes often used in finite element program. Writing such programs is a non-trivial task, and successful programs tend to become very large and complex. We believe that this is best done using a program library that takes care of the details of grid handling and refinement, handling of degrees of freedom, input of meshes and output of results in graphics formats, and the like. Likewise, support for several space dimensions at once is included in a way such that programs can be written independent of the space dimension without unreasonable penalties on run-time and memory consumption.
 
-deal.II is widely used in many academic and commercial projects. For its creation, its principal authors have received the 2007 J. H. Wilkinson Prize for Numerical Software. It is also part of the industry standard SPEC CPU 2006 and SPEC CPU 2017 benchmark suites used to determine the speed of computers and compilers.
+deal.II is [widely used](https://www.dealii.org/publications.html) in many academic and commercial projects. For its creation, its principal authors have received the 2007 J. H. Wilkinson Prize for Numerical Software as well as the 2025 SIAM/ACM Prize in Computational Science and Engineering. It is also part of the industry standard SPEC CPU 2006 and SPEC CPU 2017 benchmark suites used to determine the speed of computers and compilers.
 
-deal.II originally emerged from work at the Numerical Methods Group at Universität Heidelberg, Germany, which is at the forefront of adaptive finite element methods and error estimators. Today, it is a global, open source project maintained by a geographically diverse set of developers, and has dozens of contributors and several hundred users scattered around the world. Over the years, development of deal.II has been funded as ancillary products of various grants from the Deutsche Forschungsgemeinschaft, the National Science Foundation, and other funding agencies around the world. We have also received direct funding for particular projects from the Computational Infrastructure in Geodynamics initiative.
+deal.II originally emerged in the 1990s from work at the Numerical Methods Group at Universität Heidelberg, Germany, which was then at the forefront of adaptive finite element methods and error estimators. Today, it is a global, open source project maintained by a geographically diverse set of developers, and has dozens of contributors and several hundred or thousand users scattered around the world. Over the years, development of deal.II has been funded by grants from the National Science Foundation, the Deutsche Forschungsgemeinschaft, and a large number of other funding agencies from around the world.
 
 What deal.II can offer you
 --------------------------
@@ -23,9 +23,9 @@ If you are active in the field of adaptive finite element methods, deal.II might
 
 - Support for a variety of finite elements: Lagrange elements of any order, continuous and discontinuous; Nedelec and Raviart-Thomas elements of any order; elements composed of other elements.
 
-- Parallelization on single machine through the Threading Build Blocks and across nodes via MPI. deal.II has been shown to scale to at least 16k processors.
+- Parallelization on single machine through the Threading Build Blocks and across nodes via MPI. deal.II has been shown to scale to at least 300,000 processors.
 
-- Extensive documentation: all documentation is available online in a logical tree structure to allow fast access to the information you need. If printed it comprises more than 500 pages of tutorials, several reports, and presently some 5,000 pages of programming interface documentation with explanations of all classes, functions, and variables. All documentation comes with the library and is available online locally on your computer after installation.
+- Extensive documentation: all documentation is available online in a logical tree structure to allow fast access to the information you need. There are more than 10,000 pages of programming interface documentation with explanations of all classes, functions, and variables. All documentation comes with the library and is available both online and locally on your computer after installation.
 
 - Modern software techniques that make access to the complex data structures and algorithms as transparent as possible. The use of object oriented programming allows for program structures similar to the structures in mathematical analysis.
 
