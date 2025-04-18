@@ -17,5 +17,6 @@ There are many outstanding applications that make use of deal.II. This is just a
 - [pi-DoMUS](https://github.com/mathLab/pi-DoMUS)
 - [preCICE](https://www.precice.org)
 - [PRISMS](http://www.prisms-center.org/#/ctools/software)
+- [Sapphire++: Simulating astrophysical plasmas and particles with highly relativistic energies in C++](https://sapphirepp.org/)
 
 Also see [Code Gallery](code_gallery.md) for smaller example programs using deal.II.
