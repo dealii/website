@@ -2,7 +2,11 @@
 News on deal.II
 ===============
 
- 2025/03/03: **SIAM/ACM Prize in Computational Science and Engineering**:
+2025/05/07: The new [step-93 tutorial program](https://dealii.org/developer/doxygen/deal.II/step_93.html), written
+by Sam Scheuerman, demonstrates the use of degrees of freedom not associated with mesh nodes
+in an optimization problem.
+
+2025/03/03: **SIAM/ACM Prize in Computational Science and Engineering**:
 The principal developers of deal.II were awarded the
 [SIAM/ACM Prize in Computational Science and
 Engineering](https://www.siam.org/programs-initiatives/prizes-awards/major-prizes-lectures/siamacm-prize-in-computational-science-and-engineering/prize-history/)
