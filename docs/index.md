@@ -35,6 +35,10 @@ deal.II provides resources to learn and ask for help!
 News
 ----
 
+- 2025/05/07: The new [step-93 tutorial program](https://dealii.org/developer/doxygen/deal.II/step_93.html), written
+by Sam Scheuerman, demonstrates the use of degrees of freedom not associated with mesh nodes
+in an optimization problem.
+
 - 2025/03/03: **SIAM/ACM Prize in Computational Science and Engineering**:
 The principal developers of deal.II were awarded the
 [SIAM/ACM Prize in Computational Science and
@@ -52,9 +56,6 @@ deal.II version 9.6.0 was released today. A full list of changes can be found [h
 
 - 2024/04/17: **11th deal.II users and developers workshop**:
 The 11th deal.II Users and Developers Workshop will take place at Colorado State University, Colorado, USA, August 12-16, 2024. For more information, see [here](https://www.dealii.org/workshop-2024).
-
-- 2024/04/12: **Short course in Chennai, India**:
-Wolfgang Bangerth taught [a short course on the "Finite Element Method in Scientific Computing"](https://civil.iitm.ac.in/pcoe/smge/term-course-2024.php) in Chennai, India, April 29 – May 03, 2024.
 
 [(older news)](about/news.md)
 
