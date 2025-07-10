@@ -89,6 +89,7 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Mathias Anselmann
 1. Daniel Appel
 1. Juan Carlos Araujo Cabarcas
+1. Henry Arhin
 1. Daniel Arndt
 1. Rajat Arora
 1. Arpit Babbar
@@ -113,11 +114,15 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Michele Bucelli
 1. Till Budde
 1. John Burnell
+1. Alfredo Buttari
 1. Krysztof Bzowski
 1. Markus Bürg
 1. Yong-Yong Cai
 1. Marcus Calhoun-Lopez
+1. Bruna Campos
 1. Lucas Campos
+1. Nicholas Cantrell
+1. Xiaoming Cao
 1. Brian Carnes
 1. Daniel Castanon Quiroz
 1. David F. Castellanos
@@ -125,8 +130,10 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Nicola Cavallini
 1. Jordan Cazamias
 1. Praveen Chandrashekar
+1. Chayapol Chaoveeraprasit
 1. Huimin Chen
 1. Jie Cheng
+1. Jerett Cherry
 1. Joshua Christopher
 1. Ivan Christov
 1. Pi-Yueh Chuang
@@ -136,8 +143,11 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Terry Cojean
 1. Ester Comellas
 1. Katherine Cosburn
+1. Dario Coscia
+1. John Coughlin
 1. Sam Cox
 1. Cu Cui
+1. Nikita Daniliuk
 1. Juliane Dannberg
 1. Sambit Das
 1. Andrew Davis
@@ -159,10 +169,12 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Anton Ermakov
 1. Patrick Esser
 1. Anton Evgrafov
+1. Crystal Farris
 1. Marco Feder
 1. Marc Fehling
 1. Niklas Fehn
 1. Emmanuel Ferdman
+1. Federico Fernandez
 1. Isuru Fernando
 1. Rebecca Fildes
 1. Andreas Fink
@@ -175,6 +187,7 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Anian Fuchs
 1. Sebastian Fuchs
 1. Ivan Fumagalli
+1. Olivier Gaboriault
 1. Andres Galindo
 1. Vadim Gallyamov
 1. Daniel Garcia-Sanchez
@@ -183,6 +196,8 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Thomas Geenen
 1. Martin Genet
 1. Melanie Gerault
+1. Mohamad Ghadban
+1. Mahdi Gharehbaygloo
 1. Arezou Ghesmati
 1. Seyed Shahram Ghorashi
 1. Nicola Giuliani
@@ -193,11 +208,14 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Christian Goll
 1. Sebastian Gonzalez-Pintor
 1. Krishnakumar Gopalakrishnan
+1. Robin Görmer
 1. Alexander Grayver
 1. Ryan Grove
 1. Felix Gruber
 1. Olivier Guevremont
 1. Diane Guignard
+1. Davit Gyulamiryan
+1. Lóránt Hadnagy
 1. Tim Hamann
 1. Maien Hamed
 1. Joshua Hanophy
@@ -214,7 +232,11 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Timo Heister
 1. Luca Heltai
 1. Michael F. Herbst
+1. Fernando Herrera
+1. Robin Hiniborch
 1. Quang Hoang
+1. Jordan Hoffart
+1. Sascha Hofstetter
 1. Jiuhua Hu
 1. Umair Hussain
 1. Dakshina Ilangovan
@@ -230,9 +252,12 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Tao Jin
 1. Xing Jin
 1. Yimin Jin
+1. Yann Jobic
 1. Daniel Jodlbauer
+1. Sean Johnson
 1. Stefan Kaessmair
 1. Marie Kajan
+1. Vaishnavi Kale
 1. Christoph Kammer
 1. Guido Kanschat
 1. Justin Kauffman
@@ -246,6 +271,7 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Angela Klewinghaus
 1. Ingo Kligge
 1. Alexander Knieps
+1. Andreas Koch
 1. Alex Kokomov
 1. Joachim Kopp
 1. Katharina Kormann
@@ -262,6 +288,7 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Ross Kynch
 1. Uwe Köcher
 1. Konstantin Ladutenko
+1. Jason Landini
 1. Charu Lata
 1. Damien Lebrun-Grandie
 1. Adam Lee
@@ -269,17 +296,19 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Zhou Lei
 1. Tobias Leicht
 1. Yan Li
+1. Yingli Li
 1. Tulio Ligneul
 1. Karl Ljungkvist
 1. Sébastien Loriot
-1. Vijay Mahadevan
 1. Hongfeng Ma
 1. Shamil Magomedov
+1. Vijay Mahadevan
 1. Matthias Maier
 1. Katrin Mang
 1. Cataldo Manigrasso
 1. Nils Margenberg
 1. Mae Markowski
+1. Oreste Marquis
 1. Alberto F. Martin
 1. Andre Massing
 1. Jonathan Matthews
@@ -292,14 +321,18 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Phillip Mobley
 1. Andrea Mola
 1. Adriana Morales Miranda
+1. Ryan Moulday
 1. Nils Much
 1. Abdullah Mujahid
+1. Tileuzhan Mukhamet
 1. Peter Munch
 1. Jose Javier Munoz Criollo
+1. Wasim Niyaz Munshi
 1. Bob Myhill
 1. Helmut Müller
 1. Stefan Nauber
 1. Pratik Nayak
+1. Natalia Nebulishvili
 1. David Neckels
 1. Dragan Nikolic
 1. Emily Novak
@@ -315,6 +348,7 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Daniel Paukner
 1. M. Sebastian Pauletti
 1. Luz Paz
+1. David Pecoraro
 1. Jean-Paul Pelteret
 1. Rebecca Pereira
 1. Jonathan Perry-Houts
@@ -322,10 +356,13 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Jan Philipp
 1. Jonathan Pitt
 1. Giuseppe Pitton
+1. Davide Polverino
 1. Geneva Porter
 1. Fernando Posada
 1. Vachan Potluri
+1. Sanjeeb Poudel
 1. Adam Powell
+1. Guilhem Poy
 1. Raghunandan Pratoori
 1. Laura Prieto Saavedra
 1. Florian Prill
@@ -360,6 +397,7 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Tonatiuh Sanchez-Vizuet
 1. Alberto Sartori
 1. Malik Scheifinger
+1. Sam Scheuerman
 1. Samuel Scheuerman
 1. Michael Schlottke-Lakemper
 1. Christoph Schmidt
@@ -373,14 +411,17 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Richard Schussnig
 1. Nils Schween
 1. Kyle Schwiebert
+1. Marc Secanell
 1. Ahmad Shahba
 1. Daniel Shapero
 1. Natasha S. Sharma
 1. Jason Sheldon
+1. Qingyuan Shi
 1. Doug Shi-Dong
 1. Ben Shields
 1. Konrad Simon
 1. Simranjeet Singh
+1. Wyatt Smith
 1. Dominic Soldner
 1. Florian Sonner
 1. Stephanie Sparks
@@ -396,22 +437,28 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Habib Talavatifard
 1. Zhen Tao
 1. Buğrahan Temür
+1. Edward Terrell
 1. Marco Tezzele
 1. Jan Philipp Thiele
 1. Thierry Thomas
 1. Ben Thompson
 1. Jihuan Tian
+1. Xiaochuan Tian
 1. Malhar Tidke
 1. Ignacio Tomas
 1. Sara Tro
 1. Christophe Trophime
 1. Bruno Turcksin
 1. Benjamin Uekermann
+1. Siarhei Uzunbajakau
+1. Mikael Vaillant
 1. Ferdinand Vanmaele
 1. Antoni Vidal
 1. Vinayak Vijay
+1. Vinayak Vijay
 1. Kuljit S. Virk
 1. Heikki Virtanen
+1. Stephan Voss
 1. Jiaxin Wang
 1. Kainan Wang
 1. Yaqi Wang
@@ -432,6 +479,7 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Winnifried Wollner
 1. Christian Wülker
 1. Ming Yang
+1. Yi-Yung Yang
 1. Jaeryun Yim
 1. Chengjiang Yin
 1. Toby D. Young
