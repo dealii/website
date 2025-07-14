@@ -1,3 +1,8 @@
+[News](news.md){ .md-button #mobile-nav-button }
+[Getting Help](/getting_help/){ .md-button #mobile-nav-button }
+[Community](/community/){ .md-button #mobile-nav-button }
+[Funding](/about/funding/){ .md-button #mobile-nav-button }
+
 About
 =======
 

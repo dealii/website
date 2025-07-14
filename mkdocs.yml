@@ -21,7 +21,7 @@ nav:
       - Publications: community/publications.md
       - Best papers: community/best_paper_award.md
     - Funding: about/funding.md
-  - Current Release (9.6):
+  - Current Release:
     - current_release/index.md
     - Download: current_release/download.md
     - README: https://www.dealii.org/current/readme.html

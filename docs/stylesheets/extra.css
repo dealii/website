@@ -19,3 +19,20 @@
   border: 2px solid black;
   background: lightgray;
 }
+
+/* Navigation for sub-pages are only visible on mobile */
+#mobile-nav-button {
+display: none;
+}
+
+@media screen and (max-width: 76.1875em) {
+  /* Force the navigation tabs to be visible on mobile devices. */
+  .md-tabs {
+    display: block;
+  }
+  /* Show the navigation buttons for sub-pages */
+  #mobile-nav-button {
+    display: inline;
+    padding: 0.4em;
+  }
+}
