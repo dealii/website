@@ -1,5 +1,14 @@
-Participate
+[Team](team.md){ .md-button #mobile-nav-button }
+[Publications](publications.md){ .md-button #mobile-nav-button }
+[Best papers](best_paper_award.md){ .md-button #mobile-nav-button }
+
+Community
 ===========
+
+
+
+How to participate?
+-------------------
 
 deal.II is a community project that lives by the participation of its members — i.e., including you! If you want to join us in this, here are a few ways to give back to the project:
 
