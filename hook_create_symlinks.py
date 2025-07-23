@@ -12,6 +12,7 @@ symlinks = [
     external_path + "/documentation/9.4.1",
     external_path + "/documentation/9.5.0",
     external_path + "/documentation/9.6.0",
+    external_path + "/documentation/9.7.0",
     external_path + "/documentation/current",
     external_path + "/documentation/developer",
     external_path + "/external_assets/downloads",
