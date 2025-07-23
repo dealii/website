@@ -1,6 +1,10 @@
 Older Releases
 ==============
 
+ -  Version 9.6.2:
+    [Github release page](https://github.com/dealii/dealii/releases/tag/v9.6.2)
+    and [generated documentation](https://www.dealii.org/9.6.0/index.html)
+
  -  Version 9.5.2:
     [Github release page](https://github.com/dealii/dealii/releases/tag/v9.5.2)
     and [generated documentation](https://www.dealii.org/9.5.0/index.html)
