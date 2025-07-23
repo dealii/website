@@ -36,7 +36,7 @@ News
 ----
 
 - 2025/07/22: **Version 9.7.0 released**:
-deal.II version 9.7.0 was released today. A full list of changes can be found [here](http://www.dealii.org/developer/doxygen/deal.II/changes_between_9_6_0_and_9_7_0.html) and a long description of changes is in the manuscript [here](https://www.dealii.org/deal97-preprint.pdf). Download links are on the [download](current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
+deal.II version 9.7.0 was released today. A full list of changes can be found [here](http://dealii.org/developer/doxygen/deal.II/changes_between_9_6_0_and_9_7_0.html) and a long description of changes is in the manuscript [here](https://dealii.org/deal97-preprint.pdf). Download links are on the [download](current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
 
 - 2025/05/07: The new [step-93 tutorial program](https://dealii.org/developer/doxygen/deal.II/step_93.html), written
 by Sam Scheuerman, demonstrates the use of degrees of freedom not associated with mesh nodes
@@ -55,10 +55,10 @@ advanced models than they could possibly otherwise." See
 <a href="https://www.youtube.com/watch?v=Dv2MOoNn7Z0">here</a> for the prize lecture.
 
 - 2024/08/11: **Version 9.6.0 released**:
-deal.II version 9.6.0 was released today. A full list of changes can be found [here](http://www.dealii.org/developer/doxygen/deal.II/changes_between_9_5_2_and_9_6_0.html) and a long description of changes is in the manuscript [here](https://www.dealii.org/deal96-preprint.pdf). Download links are on the [download](current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
+deal.II version 9.6.0 was released today. A full list of changes can be found [here](http://dealii.org/developer/doxygen/deal.II/changes_between_9_5_2_and_9_6_0.html) and a long description of changes is in the manuscript [here](https://dealii.org/deal96-preprint.pdf). Download links are on the [download](current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
 
 - 2024/04/17: **11th deal.II users and developers workshop**:
-The 11th deal.II Users and Developers Workshop will take place at Colorado State University, Colorado, USA, August 12-16, 2024. For more information, see [here](https://www.dealii.org/workshop-2024).
+The 11th deal.II Users and Developers Workshop will take place at Colorado State University, Colorado, USA, August 12-16, 2024. For more information, see [here](https://dealii.org/workshop-2024).
 
 [(older news)](about/news.md)
 

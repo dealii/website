@@ -7,7 +7,7 @@ Development
 - where all development happens
 { .card }
 
-[:fontawesome-solid-book: README](https://www.dealii.org/developer/readme.html){ .md-button .md-button--primary .center }<br>
+[:fontawesome-solid-book: README](https://dealii.org/developer/readme.html){ .md-button .md-button--primary .center }<br>
 - where information is kept
 { .card }
 
@@ -15,7 +15,7 @@ Development
 - how deal.II works
 { .card }
 
-[:fontawesome-solid-image: Tutorials](https://www.dealii.org/developer/doxygen/deal.II/Tutorial.html){ .md-button .md-button--primary .center }<br>
+[:fontawesome-solid-image: Tutorials](https://dealii.org/developer/doxygen/deal.II/Tutorial.html){ .md-button .md-button--primary .center }<br>
 - how deal.II can be used
 { .card }
 

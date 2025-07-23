@@ -3,7 +3,7 @@ News on deal.II
 ===============
 
 2025/07/22: **Version 9.7.0 released**:
-deal.II version 9.7.0 was released today. A full list of changes can be found [here](http://www.dealii.org/developer/doxygen/deal.II/changes_between_9_6_0_and_9_7_0.html) and a long description of changes is in the manuscript [here](https://www.dealii.org/deal97-preprint.pdf). Download links are on the [download](current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
+deal.II version 9.7.0 was released today. A full list of changes can be found [here](http://dealii.org/developer/doxygen/deal.II/changes_between_9_6_0_and_9_7_0.html) and a long description of changes is in the manuscript [here](https://dealii.org/deal97-preprint.pdf). Download links are on the [download](current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
 
 2025/05/07: The new [step-93 tutorial program](https://dealii.org/developer/doxygen/deal.II/step_93.html), written
 by Sam Scheuerman, demonstrates the use of degrees of freedom not associated with mesh nodes
@@ -22,16 +22,16 @@ advanced models than they could possibly otherwise." See
 <a href="https://www.youtube.com/watch?v=Dv2MOoNn7Z0">here</a> for the prize lecture.
 
 2024/08/11: **Version 9.6.0 released**:
-deal.II version 9.6.0 was released today. A full list of changes can be found [here](http://www.dealii.org/developer/doxygen/deal.II/changes_between_9_5_2_and_9_6_0.html) and a long description of changes is in the manuscript [here](https://www.dealii.org/deal96-preprint.pdf). Download links are on the [download](../current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
+deal.II version 9.6.0 was released today. A full list of changes can be found [here](http://dealii.org/developer/doxygen/deal.II/changes_between_9_5_2_and_9_6_0.html) and a long description of changes is in the manuscript [here](https://dealii.org/deal96-preprint.pdf). Download links are on the [download](../current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
 
 2024/04/17: **11th deal.II users and developers workshop**:
-The 11th deal.II Users and Developers Workshop will take place at Colorado State University, Colorado, USA, August 12-16, 2024. For more information, see [here](https://www.dealii.org/workshop-2024).
+The 11th deal.II Users and Developers Workshop will take place at Colorado State University, Colorado, USA, August 12-16, 2024. For more information, see [here](https://dealii.org/workshop-2024).
 
 2024/04/12: **Short course in Chennai, India**:
 Wolfgang Bangerth taught [a short course on the "Finite Element Method in Scientific Computing"](https://civil.iitm.ac.in/pcoe/smge/term-course-2024.php) in Chennai, India, April 29 – May 03, 2024.
 
 2023/07/07: **Version 9.5.0 released**:
-deal.II version 9.5.0 was released today. A full list of changes can be found [here](http://www.dealii.org/developer/doxygen/deal.II/changes_between_9_4_0_and_9_5_0.html) and a long description of changes is in the manuscript [here](https://www.dealii.org/deal95-preprint.pdf). Download links are on the [download](../current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
+deal.II version 9.5.0 was released today. A full list of changes can be found [here](http://dealii.org/developer/doxygen/deal.II/changes_between_9_4_0_and_9_5_0.html) and a long description of changes is in the manuscript [here](https://dealii.org/deal95-preprint.pdf). Download links are on the [download](../current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
 
 2023/05/23: 10th deal.II users and developers workshop
     The 10th deal.II Users and Developers Workshop will take place at Leibniz University Hannover, Germany, September 11-15, 2023. For more information, see here. 
@@ -332,8 +332,8 @@ deal.II version 9.5.0 was released today. A full list of changes can be found [h
 2002/05/22: Intel ECC Itanium compiler now supported
     aclocal.m4 has been changed to detect the Intel ECC compiler for Itanium systems. The ECC compiler can produce optimized code for Intel's new IA-64 architecture. 
 
-2002/03/07: New web home www.dealii.org and new email addresses
-    The deal.II homepage has been moved to www.dealii.org. Also the email addresses have been changed. Though the old web home and the old addresses will be supported for some time we recommend to adjust the bookmarks and mail addresses accordingly. 
+2002/03/07: New web home dealii.org and new email addresses
+    The deal.II homepage has been moved to dealii.org. Also the email addresses have been changed. Though the old web home and the old addresses will be supported for some time we recommend to adjust the bookmarks and mail addresses accordingly. 
 
 2002/02/01: Version 3.3 released
     Today, version 3.3 of the deal.II library has been released. A complete list of changes between versions 3.2.0 and 3.3.0 can be found here. 
