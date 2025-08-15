@@ -5,6 +5,9 @@ News on deal.II
 2025/07/22: **Version 9.7.0 released**:
 deal.II version 9.7.0 was released today. A full list of changes can be found [here](http://dealii.org/developer/doxygen/deal.II/changes_between_9_6_0_and_9_7_0.html) and a long description of changes is in the manuscript [here](https://dealii.org/deal97-preprint.pdf). Download links are on the [download](current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
 
+2025/05/31: The [step-97 tutorial program](https://dealii.org/developer/doxygen/deal.II/step_97.html), written
+by Siarhei Uzunbajakau, illustrates how to solve curl-curl problems.
+
 2025/05/07: The new [step-93 tutorial program](https://dealii.org/developer/doxygen/deal.II/step_93.html), written
 by Sam Scheuerman, demonstrates the use of degrees of freedom not associated with mesh nodes
 in an optimization problem.
