@@ -28,48 +28,48 @@ If you write a paper using results obtained with the help of
       <abbr>deal.II</abbr>, please cite one or more of the following
       references:
 
--     Pasquale Claudio Africa,
-      Daniel Arndt,
-      Wolfgang Bangerth,
-      Bruno Blais,
-      Marc Fehling,
-      Rene Gassm&ouml;ller,
-      Timo Heister,
-      Luca Heltai,
-      Martin Kronbichler,
-      Matthias Maier,
-      Peter Munch,
-      Magdalena Schreter-Fleischhacker,
-      Jan Philipp Thiele,
-      Bruno Turcksin,
-      David Wells,
-      Vladimir Yushutin
+-   Daniel Arndt,
+    Wolfgang Bangerth,
+    Maximilian Bergbauer,
+    Bruno Blais,
+    Marc Fehling,
+    Rene Gassm&ouml;ller,
+    Timo Heister,
+    Luca Heltai,
+    Martin Kronbichler,
+    Matthias Maier,
+    Peter Munch,
+    Sam Scheuerman,
+    Bruno Turcksin,
+    Siarhei Uzunbajakau,
+    David Wells,
+    Michał Wichrowski
         <br />
-        <strong>The <abbr>deal.II</abbr> Library, Version 9.6
+        <strong>The <abbr>deal.II</abbr> Library, Version 9.7
         </strong>
         <br>
-        Journal of Numerical Mathematics, vol. 32, pp. 369-380, 2024.
+        Submitted, 2025.
         <br>
-        <a href="https://doi.org/10.1515/jnma-2024-0137">DOI: 10.1515/jnma-2024-0137</a>;
-        <a href="https://dealii.org/deal96-preprint.pdf" target="_top">preprint</a>;
-        <a href="https://github.com/dealii/publication-list/blob/c87698085be9d9b3553dc347ab2056f6ac9de519/publications-2024.bib#L17-L30">bibtex</a>
+        <!-- <a href="https://doi.org/XXXXX">DOI: XXXX</a>; -->
+        <a href="https://dealii.org/deal97-preprint.pdf" target="_top">preprint</a>;
+        <!-- <a href="https://github.com/dealii/publication-list/blob/c87698085be9d9b3553dc347ab2056f6ac9de519/publications-2024.bib#L17-L30">bibtex</a> -->
         <br>
+<!--        
 ```
-@Article{2024:africa.arndt.ea:deal,
-  author  = {Pasquale C. Africa and Daniel Arndt and Wolfgang Bangerth and Bruno Blais and
-             Marc Fehling and Rene Gassm{\"o}ller and Timo Heister and Luca Heltai and
-             Sebastian Kinnewig and Martin Kronbichler and Matthias Maier and Peter Munch and
-             Magdalena Schreter-Fleischhacker and Jan P. Thiele and Bruno Turcksin and
-             David Wells and Vladimir Yushutin},
-  title   = {The deal.II library, Version 9.6},
+@Article{2025:africa.arndt.ea:deal,
+  author  = {Daniel Arndt and Wolfgang Bangerth and Maximilian Bergbauer and Bruno Blais and Marc Fehling and Rene Gassm\"{o}ller
+             and Timo Heister and Luca Heltai and Martin Kronbichler and Matthias Maier and Peter Munch and Sam Scheuerman
+             and Bruno Turcksin and Siarhei Uzunbajakau and David Wells and Michał Wichrowski},
+  title   = {The deal.II library, Version 9.7},
   journal = {Journal of Numerical Mathematics},
-  year    = 2024,
-  volume  = 32,
-  number  = 4,
-  pages   = {369--380},
-  doi     = {10.1515/jnma-2024-0137}
+  year    = 2025,  TODO: Update
+  volume  = 32,      TODO: Update
+  number  = 4,         TODO: Update
+  pages   = {369--380},  TODO: Update
+  doi     = {10.1515/jnma-2024-0137}  TODO: Update
 }
 ```
+-->
 
 -       D. Arndt, W. Bangerth, D. Davydov, T. Heister,
         L. Heltai, M. Kronbichler, M. Maier,
@@ -101,6 +101,32 @@ If you write a paper using results obtained with the help of
 ```
 
 Older releases are announced in the following preprints:
+
+-     Pasquale Claudio Africa,
+      Daniel Arndt,
+      Wolfgang Bangerth,
+      Bruno Blais,
+      Marc Fehling,
+      Rene Gassm&ouml;ller,
+      Timo Heister,
+      Luca Heltai,
+      Martin Kronbichler,
+      Matthias Maier,
+      Peter Munch,
+      Magdalena Schreter-Fleischhacker,
+      Jan Philipp Thiele,
+      Bruno Turcksin,
+      David Wells,
+      Vladimir Yushutin
+        <br />
+        <strong>The <abbr>deal.II</abbr> Library, Version 9.6
+        </strong>
+        <br>
+        Journal of Numerical Mathematics, vol. 32, pp. 369-380, 2024.
+        <br>
+        <a href="https://doi.org/10.1515/jnma-2024-0137">DOI: 10.1515/jnma-2024-0137</a>;
+        <a href="https://dealii.org/deal96-preprint.pdf" target="_top">preprint</a>;
+        <a href="https://github.com/dealii/publication-list/blob/c87698085be9d9b3553dc347ab2056f6ac9de519/publications-2024.bib#L17-L30">bibtex</a>
 
 -       Daniel Arndt,
         Wolfgang Bangerth,
