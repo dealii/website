@@ -100,7 +100,7 @@ If you write a paper using results obtained with the help of
 }
 ```
 
-Older releases are announced in the following preprints:
+Older releases are announced in the following articles:
 
 -     Pasquale Claudio Africa,
       Daniel Arndt,
