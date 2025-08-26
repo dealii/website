@@ -1,7 +1,7 @@
 Funding
 =======
 
- Like many other open source projects, a significant part of deal.II has been written either as a by-product for other projects people were funded for, or by people on university-funded positions. There are probably dozens if not hundreds of such projects that have led to some development of of deal.II. We are very grateful for this support!
+ Like many other open source projects, a significant part of deal.II has been written either as a by-product for other projects people were funded for, or by people on university-funded positions. There are probably dozens if not hundreds of such projects that have led to some development of deal.II. We are very grateful for this support!
 
 
 Beyond this, deal.II has also been supported by some dedicated projects that have allowed us to work on extensions, documentation, training and dissemination that would otherwise not have been possible. In particular, we acknowledge the following sources of support with great gratitude:
