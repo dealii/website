@@ -13,6 +13,21 @@ deal.II. The criteria for this award are:
 - Quality of the visualizations shown in the paper.
 
 
+2024
+----
+
+The best deal.II-based paper from 2024 is the following:
+
+> D. Abbondanza, M. Gallo, C. M. Casciola
+>
+> _Collapse of microbubbles over an elastoplastic wall_
+>
+> Journal of Fluid Mechanics, vol. 999, A72, 2024.
+>
+> [[DOI: 10.1017/jfm.2024.925]](https://doi.org/10.1017/jfm.2024.925)
+> [[URL]](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/collapse-of-microbubbles-over-an-elastoplastic-wall/7AB540E0C8E4098DFD5F133163E6AE59)
+
+
 2023
 ----
 
