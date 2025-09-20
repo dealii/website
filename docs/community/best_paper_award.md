@@ -18,7 +18,7 @@ deal.II. The criteria for this award are:
 
 The best deal.II-based paper from 2024 is the following:
 
-> D. Abbondanza, M. Gallo, C. M. Casciola
+> D. Abbondanza, M. Gallo, C. M. Casciola:
 >
 > _Collapse of microbubbles over an elastoplastic wall_
 >
