@@ -26,7 +26,8 @@ The best deal.II-based paper from 2024 is the following:
 >
 > [[DOI: 10.1017/jfm.2024.925]](https://doi.org/10.1017/jfm.2024.925)
 > [[URL]](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/collapse-of-microbubbles-over-an-elastoplastic-wall/7AB540E0C8E4098DFD5F133163E6AE59)
-
+>
+> ![An image from the publication](../large_assets/best-paper-award/2024/collapse_near_wall.png){ width="600" }
 
 2023
 ----
