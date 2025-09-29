@@ -48,9 +48,9 @@ If you write a paper using results obtained with the help of
         <strong>The <abbr>deal.II</abbr> Library, Version 9.7
         </strong>
         <br>
-        Submitted, 2025.
+        Journal of Numerical Mathematics, 2025.
         <br>
-        <!-- <a href="https://doi.org/XXXXX">DOI: XXXX</a>; -->
+        <a href="https://doi.org/10.1515/jnma-2025-0115">DOI: 10.1515/jnma-2025-0115</a>;
         <a href="https://dealii.org/deal97-preprint.pdf" target="_top">preprint</a>;
         <!-- <a href="https://github.com/dealii/publication-list/blob/c87698085be9d9b3553dc347ab2056f6ac9de519/publications-2024.bib#L17-L30">bibtex</a> -->
         <br>
@@ -66,7 +66,7 @@ If you write a paper using results obtained with the help of
   volume  = 32,      TODO: Update
   number  = 4,         TODO: Update
   pages   = {369--380},  TODO: Update
-  doi     = {10.1515/jnma-2024-0137}  TODO: Update
+  doi     = {10.1515/jnma-2025-0115}
 }
 ```
 -->
