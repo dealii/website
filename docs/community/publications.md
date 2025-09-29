@@ -517,7 +517,7 @@ Publications using deal.II
     ['2020',  0, 'blue'],
     ['2021',  0, 'blue'],
     ['2022',  0, 'blue'],
-    ['2023',  0, 'silver'],
+    ['2023',  0, 'blue'],
     ['2024',  0, 'silver'],
     ['2025',  0, 'silver'],
     ['2026',  0, 'silver']
