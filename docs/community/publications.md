@@ -25,7 +25,7 @@ Referencing deal.II
 -------------------
 
 If you write a paper using results obtained with the help of
-      <abbr>deal.II</abbr>, please cite one or more of the following
+      deal.II, please cite one or more of the following
       references:
 
 -   Daniel Arndt,
@@ -45,7 +45,7 @@ If you write a paper using results obtained with the help of
     David Wells,
     Michał Wichrowski
         <br />
-        <strong>The <abbr>deal.II</abbr> Library, Version 9.7
+        <strong>The deal.II Library, Version 9.7
         </strong>
         <br>
         Journal of Numerical Mathematics, 2025.
@@ -75,7 +75,7 @@ If you write a paper using results obtained with the help of
         L. Heltai, M. Kronbichler, M. Maier,
         J.-P. Pelteret, B. Turcksin, D. Wells
         <br />
-        <strong>The <abbr>deal.II</abbr> finite element library: design, features, and insights
+        <strong>The deal.II finite element library: design, features, and insights
         </strong>
         <br>
         Computers &amp; Mathematics with Applications, vol. 81, pages 407-422, 2021.
@@ -119,7 +119,7 @@ Older releases are announced in the following articles:
       David Wells,
       Vladimir Yushutin
         <br />
-        <strong>The <abbr>deal.II</abbr> Library, Version 9.6
+        <strong>The deal.II Library, Version 9.6
         </strong>
         <br>
         Journal of Numerical Mathematics, vol. 32, pp. 369-380, 2024.
@@ -144,7 +144,7 @@ Older releases are announced in the following articles:
         David Wells,
         Stefano Zampini
         <br />
-        <strong>The <abbr>deal.II</abbr> Library, Version 9.5
+        <strong>The deal.II Library, Version 9.5
         </strong>
         <br>
         Journal of Numerical Mathematics, vol. 31, no. 3, pages 231-246, 2023.
@@ -169,7 +169,7 @@ Older releases are announced in the following articles:
         Bruno Turcksin,
         David Wells
         <br />
-        <strong>The <abbr>deal.II</abbr> Library, Version 9.4
+        <strong>The deal.II Library, Version 9.4
         </strong>
         <br>
         Journal of Numerical Mathematics, Volume 30, No. 3, pages 231-246, 2022.
@@ -185,7 +185,7 @@ Older releases are announced in the following articles:
         P. Munch, J.-P. Pelteret, S. Proell, K. Simon, B. Turcksin,
         D. Wells, J. Zhang
         <br />
-        <strong>The <abbr>deal.II</abbr> Library, Version 9.3
+        <strong>The deal.II Library, Version 9.3
         </strong>
         <br>
         Journal of Numerical Mathematics, Volume 29, No. 3, Pages 171-186, 2021.
@@ -202,7 +202,7 @@ Older releases are announced in the following articles:
         P. Munch, J.-P. Pelteret, R. Rastak,
         I. Thomas, B. Turcksin, Z. Wang, D. Wells
         <br />
-        <strong>The <abbr>deal.II</abbr> Library, Version 9.2
+        <strong>The deal.II Library, Version 9.2
         </strong>
         <br>
         Journal of Numerical Mathematics, Volume 28, Pages 131-146, 2020.
@@ -218,7 +218,7 @@ Older releases are announced in the following articles:
         L. Heltai, M. Kronbichler, R. M. Kynch, M. Maier,
         J.-P. Pelteret, B. Turcksin, D. Wells
         <br />
-        <strong>The <abbr>deal.II</abbr> Library, Version 9.1
+        <strong>The deal.II Library, Version 9.1
         </strong>
         <br>
         Journal of Numerical Mathematics, Volume 27, Issue 4, Pages 203-213, 2019.
@@ -234,7 +234,7 @@ Older releases are announced in the following articles:
         L. Heltai, K. Kormann, M. Kronbichler, M. Maier,
         J.-P. Pelteret, B. Turcksin, D. Wells
         <br />
-        <strong>The <abbr>deal.II</abbr> Library, Version 9.0
+        <strong>The deal.II Library, Version 9.0
         </strong>
         <br>
         Journal of Numerical Mathematics, 26(4), pp. 173-183, 2018.
@@ -247,7 +247,7 @@ Older releases are announced in the following articles:
 
 -       D. Arndt, W. Bangerth, D. Davydov, T. Heister,
         L. Heltai, M. Kronbichler, M. Maier, J.-P. Pelteret, B. Turcksin, D. Wells<br />
-        <strong>The <abbr>deal.II</abbr> Library, Version 8.5
+        <strong>The deal.II Library, Version 8.5
         </strong>
         <br>
         Journal of Numerical Mathematics, vol. 25,
@@ -259,7 +259,7 @@ Older releases are announced in the following articles:
 
 -       W. Bangerth, D. Davydov, T. Heister, L. Heltai, G. Kanschat, M. Kronbichler, M. Maier, B. Turcksin, D. Wells
         <br>
-        <strong>The <abbr>deal.II</abbr> Library, Version 8.4
+        <strong>The deal.II Library, Version 8.4
         </strong>
         <br>
         Journal of Numerical Mathematics, vol. 24,
@@ -272,7 +272,7 @@ Older releases are announced in the following articles:
 
 -       W. Bangerth, T. Heister, L. Heltai, G. Kanschat, M. Kronbichler, M. Maier, B. Turcksin
         <br>
-        <strong>The <abbr>deal.II</abbr> Library, Version 8.3
+        <strong>The deal.II Library, Version 8.3
         </strong>
         <br>
         Archive of Numerical Software, vol. 4, pp. 1-11, 2016.
@@ -284,7 +284,7 @@ Older releases are announced in the following articles:
  
  -      W. Bangerth, T. Heister, L. Heltai, G. Kanschat, M. Kronbichler, M. Maier, T. D. Young
         <br>
-        <strong>The <abbr>deal.II</abbr> Library, Version 8.2
+        <strong>The deal.II Library, Version 8.2
         </strong>
         <br>
         Archive of Numerical Software, vol. 3, 2015.
@@ -294,26 +294,26 @@ Older releases are announced in the following articles:
         <br>
 
 -       W. Bangerth, T. Heister, L. Heltai, G. Kanschat, M. Kronbichler, M. Maier, T. D. Young <br />
-        <strong>The <abbr>deal.II</abbr> Library, Version 8.1
+        <strong>The deal.II Library, Version 8.1
         </strong>
         <br>
         <a href="http://arxiv.org/abs/1312.2266v4" target="_top">arxiv:1312.2266v4</a>, 2013.
         <br>
 
 -       W. Bangerth, T. Heister, L. Heltai, G. Kanschat, M. Kronbichler, M. Maier, T. D. Young <br />
-        <strong>The <abbr>deal.II</abbr> Library, Version 8.0
+        <strong>The deal.II Library, Version 8.0
         </strong>
         <br>
         <a href="http://arxiv.org/abs/1312.2266v3" target="_top">arxiv:1312.2266v3</a>, 2013.
         <br>
 
 
-Publications on details of <abbr>deal.II</abbr>
+Publications on details of deal.II
 ----------------------------------------------
 
 The following publications explain in great detail the
 implementation of algorithms and data structures of various
-components of <abbr>deal.II</abbr>:
+components of deal.II:
 
 -       M. Fehling, W. Bangerth
         <br>
@@ -447,12 +447,12 @@ components of <abbr>deal.II</abbr>:
         DOI: <a href="https://doi.org/10.1016/j.compstruc.2004.04.015">10.1016/j.compstruc.2004.04.015</a>
 
 For massively parallel
-      computations, <abbr>deal.II</abbr> builds on the
+      computations, deal.II builds on the
       <a href="http://www.p4est.org/" target="_top">p4est</a>
       library. If you use this functionality, please also cite the
       p4est paper listed at their website.
 
-<abbr>deal.II</abbr> is a component of the
+deal.II is a component of the
       <a href="http://www.spec.org/cpu2006/">SPEC CPU2006</a> and
       <a href="http://www.spec.org/cpu2017/">SPEC CPU2017</a>
       benchmark
@@ -460,7 +460,7 @@ For massively parallel
       testsuite as a reference for compiler and hardware
       optimizations. The following special issue gives a detailed
       comparison with respect to many different metrics of the
-      benchmarks in SPEC CPU2006, including <abbr>deal.II</abbr>:
+      benchmarks in SPEC CPU2006, including deal.II:
     <ul>
       <li>
         <strong>Special Issue: SPEC CPU2006 analysis (Editor: John Henning)
