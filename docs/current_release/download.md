@@ -10,10 +10,10 @@ Downloads
     We provide various options to help you with the installation of deal.II and its dependencies. Please see the [Getting deal.II wiki page](https://github.com/dealii/dealii/wiki/Getting-deal.II) for more information and do not hesitate to ask on the [deal.II discussion group for help](../getting_help/index.md).
 
 
-Current Release: 9.7.0
+Current Release: 9.7.1
 ----------------------
 
-Sources |   <span style="font-weight:normal">dealii-9.7.0.tar.gz:  [mirror](/downloads/dealii-9.7.0.tar.gz), [github](https://github.com/dealii/dealii/releases/download/v9.7.0/dealii-9.7.0.tar.gz) <br> (PGP signature file: [mirror](/downloads/dealii-9.7.0.tar.gz.asc), [github](https://github.com/dealii/dealii/releases/download/v9.7.0/dealii-9.7.0.tar.gz.asc)) <br> July 22, 2025, 41MB. <br> sha256:&nbsp;398ffbb5de1ea52b88a47aaa54a253ad58ee4e810a8c5aa0a0f549ecb1bc4c6c<br> See [README](/9.7.0/readme.html) for installation instructions or open <code>doc/readme.html</code> after unpacking </span>|
+Sources |   <span style="font-weight:normal">dealii-9.7.1.tar.gz:  [mirror](/downloads/dealii-9.7.1.tar.gz), [github](https://github.com/dealii/dealii/releases/download/v9.7.1/dealii-9.7.1.tar.gz) <br> (PGP signature file: [mirror](/downloads/dealii-9.7.1.tar.gz.asc), [github](https://github.com/dealii/dealii/releases/download/v9.7.1/dealii-9.7.1.tar.gz.asc)) <br> September 14, 2025, 41MB. <br> sha256:&nbsp;0f2096ef83db54fdcebe9f3d148fa713f63f1c3f567941b53bcb4a1a8ea7de43<br> See [README](/9.7.0/readme.html) for installation instructions or open <code>doc/readme.html</code> after unpacking </span>|
 -----------: |:-------------|
 <strong>Offline documentation</strong>      | dealii-9.7.0-offline_documentation.tar.gz: [mirror](/downloads/dealii-9.7.0-offline_documentation.tar.gz), [github](https://github.com/dealii/dealii/releases/download/v9.7.0/dealii-9.7.0-offline_documentation.tar.gz) <br>  (PGP signature file: [mirror](/downloads/dealii-9.7.0-offline_documentation.tar.gz.asc), [github](https://github.com/dealii/dealii/releases/download/v9.7.0/dealii-9.7.0-offline_documentation.tar.gz.asc)) <br>   July 22, 2025, 448MB. <br> sha256:&nbsp;93fdfa3ea7a64a803ab7ba0dc3bc89b2708c5348ccb621d42d766e7fb67aa865 |
 
@@ -54,7 +54,8 @@ Development sources
 Installers and images
 ---------------------
 
-| **Mac OS packages**        |  dealii-9.6.2-sequoia-arm64-clang16.dmg, see [github](https://github.com/dealii/dealii/releases/download/v9.6.2/dealii-9.6.2-sequoia-arm64-clang16.dmg)  <br>  (PGP signature file: [github](https://github.com/dealii/dealii/releases/download/v9.6.2/dealii-9.6.2-sequoia-arm64-clang16.dmg.asc)) <br> February 5, 2025, 983MB.  <br>  [Mac OSX Instructions](https://github.com/dealii/dealii/wiki/MacOSX) |
+| **Mac OS packages**        |  dealii-9.7.1-sequoia-arm64-clang17.dmg, see [github](https://github.com/dealii/dealii/releases/download/v9.7.1/dealii-9.7.1-sequoia-arm64-clang17.dmg)  <br>  (PGP signature file: [github](https://github.com/dealii/dealii/releases/download/v9.7.1/dealii-9.7.1-sequoia-arm64-clang17.dmg.asc)) <br> September 19, 2025, 1.03GB.  <br>  [Mac OSX Instructions](https://github.com/dealii/dealii/wiki/MacOSX) |
+|                            |  dealii-9.7.1-tahoe-arm64-clang17.dmg, see [github](https://github.com/dealii/dealii/releases/download/v9.7.1/dealii-9.7.1-tahoe-arm64-clang17.dmg)  <br>  (PGP signature file: [github](https://github.com/dealii/dealii/releases/download/v9.7.1/dealii-9.7.1-tahoe-arm64-clang17.dmg.asc)) <br> September 19, 2025, 1.03GB.  <br>  [Mac OSX Instructions](https://github.com/dealii/dealii/wiki/MacOSX) |
 -----------: |:-------------|
 | **Virtual Machine Image**   | An image for VirtualBox gives you a complete environment to try out deal.II and works on Mac OS, Linux, and Windows:   <br> [More information](https://www.math.clemson.edu/~heister/dealvm/)                                                                                                                 |
 | **Dockerized installation** | Several Docker images with full installations of deal.II and (almost) all its dependencies are available on [Docker HUB](https://hub.docker.com/r/dealii/dealii/).  These images are guaranteed to work identically on Mac OS, Linux, Windows, on Travis CI, and on GitLab CI.  See, for example, the [Wiki page on Docker-Images](https://github.com/dealii/dealii/wiki/Docker-Images) to use these images in your own application with Travis CI, GitLab CI, or GitHub Actions. |
