@@ -12,6 +12,8 @@ Beyond this, deal.II has also been supported by some dedicated projects that hav
 
 - National Science Foundation through award [OCI-1148116](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1148116&HistoricalAwards=false).
 
+- NVIDIA through the NVIDIA Academic Grant Program award "Sustainable NVIDIA GPU acceleration for open source FEM simulations in deal.II".
+
 - European Research Council (ERC) through the Advanced Grant 289049 MOCOPOLY.
 
 - The [Computational Infrastructure in Geodynamics initiative (CIG)](https://geodynamics.org/), through the National Science Foundation under Awards No. EAR-0949446, EAR-1550901, and EAR-2149126 via The University of California - Davis.
@@ -26,6 +28,7 @@ Beyond this, deal.II has also been supported by some dedicated projects that hav
 
 ![NSF logo](../assets/images/logos/NSF-logo.png){ width="100" }
 ![CIG logo](../assets/images/logos/cig.jpg){ width="150" }
+![NVIDIA logo](../assets/images/logos/nvidia.png){ width="100" }
 ![DLR logo](../assets/images/logos/dlr.png){ width="100" }
 ![ERC logo](../assets/images/logos/erc.jpg){ width="100" }
 ![Helmholtz logo](../assets/images/logos/helmholtz.png){ width="200" }
