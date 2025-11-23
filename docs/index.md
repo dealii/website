@@ -35,6 +35,9 @@ deal.II provides resources to learn and ask for help!
 News
 ----
 
+- 2025/09/30: [Best deal.II-based paper of 2024: D. Abbondanza, M. Gallo, C. M. Casciola:
+"Collapse of microbubbles over an elastoplastic wall"](community/best_paper_award.md).
+
 - 2025/07/22: **Version 9.7.0 released**:
 deal.II version 9.7.0 was released today. A full list of changes can be found [here](http://dealii.org/developer/doxygen/deal.II/changes_between_9_6_0_and_9_7_0.html) and a long description of changes is in the manuscript [here](https://dealii.org/deal97-preprint.pdf). Download links are on the [download](current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
 
