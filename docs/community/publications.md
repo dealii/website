@@ -55,7 +55,7 @@ If you write a paper using results obtained with the help of
         <!-- <a href="https://github.com/dealii/publication-list/blob/c87698085be9d9b3553dc347ab2056f6ac9de519/publications-2024.bib#L17-L30">bibtex</a> -->
         <br>
 ```
-@Article{2025:africa.arndt.ea:deal,
+@Article{2025:arndt.bangerth.ea:deal,
   author  = {Daniel Arndt and Wolfgang Bangerth and Maximilian Bergbauer and Bruno Blais and Marc Fehling and Rene Gassm\"{o}ller
              and Timo Heister and Luca Heltai and Martin Kronbichler and Matthias Maier and Peter Munch and Sam Scheuerman
              and Bruno Turcksin and Siarhei Uzunbajakau and David Wells and Micha{\l} Wichrowski},
