@@ -11,6 +11,7 @@ There are many outstanding applications that make use of deal.II. This is just a
 - [DOpElib](https://winnifried.github.io/dopelib/)
 - [ExaDG](https://github.com/exadg/exadg)
 - [FEMFFUSION](https://femffusion.webs.upv.es/)
+- [HierBEM](https://jihuan-tian.github.io/hierbem-site/)
 - [hyper.deal](https://github.com/hyperdeal/hyperdeal)
 - [ideal.II](https://instatdealii.github.io/idealii/dev/)
 - [Lethe](https://github.com/lethe-cfd/lethe)
