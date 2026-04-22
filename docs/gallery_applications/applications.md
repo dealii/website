@@ -17,6 +17,7 @@ There are many outstanding applications that make use of deal.II. This is just a
 - [Lethe](https://github.com/lethe-cfd/lethe)
 - [life<sup>x</sup>](https://lifex.gitlab.io/)
 - [OpenFCST](http://www.openfcst.mece.ualberta.ca/)
+- [PHiLiP](https://github.com/dougshidong/PHiLiP)
 - [pi-DoMUS](https://github.com/mathLab/pi-DoMUS)
 - [preCICE](https://www.precice.org)
 - [PRISMS](http://www.prisms-center.org/#/ctools/software)
