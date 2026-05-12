@@ -35,6 +35,9 @@ deal.II provides resources to learn and ask for help!
 News
 ----
 
+- 2025/10/14: We wrote an editorial in SIAM News about mathematical software:
+[Supporting computational science and engineering: How widely-used software in industrial and applied mathematics is created](https://www.siam.org/publications/siam-news/articles/supporting-computational-science-and-engineering-the-creation-of-widely-used-software-in-industrial-and-applied-mathematics/).
+
 - 2025/09/30: [Best deal.II-based paper of 2024: D. Abbondanza, M. Gallo, C. M. Casciola:
 "Collapse of microbubbles over an elastoplastic wall"](community/best_paper_award.md).
 
