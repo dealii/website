@@ -2,6 +2,27 @@
 News on deal.II
 ===============
 
+2026/05/11: New tutorial programs [step-98](https://dealii.org/developer/doxygen/deal.II/step_98.html)
+and [step-100](https://dealii.org/developer/doxygen/deal.II/step_100.html): step-98 shows
+how to solve two-dimensional magnetostatic curl-curl problems, and step-100 applies a
+discontinuous Petrov-Galerkin method to the time-harmonic Helmholtz equation.
+There are also several new code gallery programs:
+[Parallel implementation of heat equation](https://dealii.org/developer/doxygen/deal.II/code_gallery_Heat_Eqn_Parallel.html),
+a transient heat equation solver with adaptive mesh refinement and a parallel solver;
+[L-BFGS phasefield solver](https://dealii.org/developer/doxygen/deal.II/code_gallery_L_BFGS_phasefield_solver.html),
+a limited-memory BFGS monolithic solver for phase-field crack simulations;
+[An agglomeration-based solver for the Poisson problem](https://dealii.org/developer/doxygen/deal.II/code_gallery_agglomeration_poisson.html),
+a discontinuous Galerkin solver for the Poisson problem on general polytopal meshes generated
+through mesh agglomeration;
+[An ALE approach for large-deformation thermoplasticity](https://dealii.org/developer/doxygen/deal.II/code_gallery_ALE_Finite_Strain_Plasticity.html),
+an implementation of a large-deformation arbitrary Lagrangian-Eulerian finite-strain thermoplasticity solver;
+[Parallel flow routing](https://dealii.org/developer/doxygen/deal.II/code_gallery_parallel_flow_routing.html),
+a parallel solver for determining how much water is available at every point of a landscape;
+[Parallel Vibroacoustic Solver](https://dealii.org/developer/doxygen/deal.II/code_gallery_Parallel_Vibro_Acoustic_Solver.html),
+a parallel frequency-domain vibroacoustic solver calculating the sound transmission loss of a concrete wall;
+and [Multilevel Monte Carlo for random Darcy flow](https://dealii.org/developer/doxygen/deal.II/code_gallery_MLMC_random_darcy_flow.html),
+an implementation of a multilevel Monte Carlo method for random Darcy flow.
+
 2025/10/14: We wrote an editorial in SIAM News about mathematical software:
 [Supporting computational science and engineering: How widely-used software in industrial and applied mathematics is created](https://www.siam.org/publications/siam-news/articles/supporting-computational-science-and-engineering-the-creation-of-widely-used-software-in-industrial-and-applied-mathematics/)
 [(pdf version)](../large_assets/miscellaneous/20251014-siam_news.pdf).
