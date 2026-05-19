@@ -35,6 +35,11 @@ deal.II provides resources to learn and ask for help!
 News
 ----
 
+- 2026/04/23: New tutorial programs [step-98](https://dealii.org/developer/doxygen/deal.II/step_98.html)
+and [step-100](https://dealii.org/developer/doxygen/deal.II/step_100.html): step-98 shows
+how to solve two-dimensional magnetostatic curl-curl problems, and step-100 applies a
+discontinuous Petrov-Galerkin method to the time-harmonic Helmholtz equation.
+
 - 2025/10/14: We wrote an editorial in SIAM News about mathematical software:
 [Supporting computational science and engineering: How widely-used software in industrial and applied mathematics is created](https://www.siam.org/publications/siam-news/articles/supporting-computational-science-and-engineering-the-creation-of-widely-used-software-in-industrial-and-applied-mathematics/)
 [(pdf version)](large_assets/miscellaneous/20251014-siam_news.pdf).
