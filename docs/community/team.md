@@ -72,7 +72,7 @@ Developers emeriti
 Contributors
 ------------
 
-Many people have contributed to deal.II over the years, many of them very substantial parts of the library. Their work is greatly appreciated: No open source project can survice without a community. The following people (in alphabetical order) have contributed to the library, with many more who have sent in fixes and small enhancements -- thank you!
+Many people have contributed to deal.II over the years, many of them very substantial parts of the library. Their work is greatly appreciated: No open source project can survive without a community. The following people (in alphabetical order) have contributed to the library, with many more who have sent in fixes and small enhancements -- thank you!
 
 /// html | div[style='-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;']
 
