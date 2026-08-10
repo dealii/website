@@ -2,7 +2,8 @@ Current Release
 ===============
 
 deal.II 9.8.0 was released August 9, 2026.
-See all significant changes in the [Changelog](https://dealii.org/current/doxygen/deal.II/changes_between_9_7_1_and_9_8_0.html).
+See all significant changes in the [Changelog](https://dealii.org/current/doxygen/deal.II/changes_between_9_7_1_and_9_8_0.html),
+and a long description of changes in the [release paper](https://dealii.org/deal98-preprint.pdf).
 
 <div class="grid" markdown>
 
