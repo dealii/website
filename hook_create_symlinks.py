@@ -32,6 +32,7 @@ symlinks = [
     "large_assets/release-papers/deal95-preprint.pdf",
     "large_assets/release-papers/deal96-preprint.pdf",
     "large_assets/release-papers/deal97-preprint.pdf",
+    "large_assets/release-papers/deal98-preprint.pdf",
     "large_assets/workshops/workshop-2010",
     "large_assets/workshops/workshop-2012",
     "large_assets/workshops/workshop-2013",
