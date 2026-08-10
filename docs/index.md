@@ -36,7 +36,7 @@ News
 ----
 
 - 2026/08/09: **Version 9.8.0 released**:
-deal.II version 9.8.0 was released today. A full list of changes can be found [here](https://dealii.org/developer/doxygen/deal.II/changes_between_9_7_1_and_9_8_0.html). Download links are on the [download](current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
+deal.II version 9.8.0 was released today. A full list of changes can be found [here](https://dealii.org/developer/doxygen/deal.II/changes_between_9_7_1_and_9_8_0.html) and a long description of changes is in the manuscript [here](https://dealii.org/deal98-preprint.pdf). Download links are on the [download](current_release/download.md) page, or the [release page on github](https://github.com/dealii/dealii/releases).
 
 - 2026/05/11: New tutorial programs [step-98](https://dealii.org/developer/doxygen/deal.II/step_98.html)
 and [step-100](https://dealii.org/developer/doxygen/deal.II/step_100.html): step-98 shows
