@@ -93,5 +93,44 @@ advanced models than they could possibly otherwise." See
 Videos
 ------
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1FYT2_aIxZT4VFJeJDrqAu5out9HwCDwsxWU299e5hlk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<div id="video-timeline"></div>
+<script>
+  const timelineSource = "1FYT2_aIxZT4VFJeJDrqAu5out9HwCDwsxWU299e5hlk";
+  const timelineContainer = document.getElementById("video-timeline");
+
+  function addTimeline(initialSlide) {
+    const timeline = document.createElement("iframe");
+    timeline.src =
+      "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=" +
+      timelineSource +
+      "&font=Default&lang=en&initial_zoom=2&height=650&start_at_slide=" +
+      initialSlide;
+    timeline.width = "100%";
+    timeline.height = "650";
+    timeline.setAttribute("webkitallowfullscreen", "");
+    timeline.setAttribute("mozallowfullscreen", "");
+    timeline.setAttribute("allowfullscreen", "");
+    timeline.frameBorder = "0";
+    timelineContainer.appendChild(timeline);
+  }
+
+  fetch("https://docs.google.com/spreadsheets/d/" + timelineSource + "/pub?output=csv")
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error("Unable to retrieve the video timeline.");
+      }
+      return response.text();
+    })
+    .then((csv) => {
+      const entries = csv.trim().split(/\r?\n/).length - 1;
+      if (entries < 1) {
+        throw new Error("The video timeline does not contain any entries.");
+      }
+      addTimeline(Math.floor(Math.random() * entries));
+    })
+    .catch((error) => {
+      console.error(error);
+      addTimeline(0);
+    });
+</script>
 `
