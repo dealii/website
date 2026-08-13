@@ -16,7 +16,7 @@ Publications
 
 <div>
       <div class="well" align="center">
-	  <div id="plot" style="width:650px"></div>
+	  <div id="plot" style="width:650px; height:400px"></div>
 	  <div id="n_publications"></div>
 	</div>
 </div>
@@ -577,6 +577,8 @@ Publications using deal.II
     var data = google.visualization.arrayToDataTable(table);
 
     var options = {
+      width: 650,
+      height: 400,
       hAxis: {title: 'Year',
               showTextEvery: '2',
               textStyle: {fontSize:'9'}},
