@@ -18,7 +18,9 @@ nav:
     - Community:
       - community/index.md
       - Team: community/team.md
-      - Publications: community/publications.md
+      - Citing deal.II: community/citing.md
+      - Publications on deal.II details: community/publications-details.md
+      - Publications using deal.II: community/publications.md
       - Best papers: community/best_paper_award.md
     - Funding: about/funding.md
   - Current Release:
