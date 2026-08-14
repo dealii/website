@@ -1,5 +1,7 @@
 [Team](team.md){ .md-button #mobile-nav-button }
-[Publications](publications.md){ .md-button #mobile-nav-button }
+[Citing deal.II](citing.md){ .md-button #mobile-nav-button }
+[Publications on deal.II details](publications-details.md){ .md-button #mobile-nav-button }
+[Publications using deal.II](publications.md){ .md-button #mobile-nav-button }
 [Best papers](best_paper_award.md){ .md-button #mobile-nav-button }
 
 Community
