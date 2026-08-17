@@ -9,6 +9,44 @@ page](publications-details.md).
 
 -   Daniel Arndt,
     Wolfgang Bangerth,
+    Bruno Blais,
+    Marc Fehling,
+    Rene Gassm&ouml;ller,
+    Timo Heister,
+    Luca Heltai,
+    Vladimir Ivannikov,
+    Martin Kronbichler,
+    Matthias Maier,
+    Peter Munch,
+    Andreas Steger,
+    Dominik Still,
+    Bruno Turcksin,
+    David Wells
+        <br />
+        <strong>The deal.II Library, Version 9.8
+        </strong>
+        <br>
+        Journal of Numerical Mathematics, accepted. 2026.
+        <br>
+        <a href="https://doi.org/10.1515/jnma-2026-0118">DOI: 10.1515/jnma-2026-0118</a>;
+        <a href="https://dealii.org/deal98-preprint.pdf" target="_top">preprint</a>;
+        <!-- <a href="https://github.com/dealii/publication-list/blob/c87698085be9d9b3553dc347ab2056f6ac9de519/publications-2024.bib#L17-L30">bibtex</a> -->
+        <br>
+```
+@Article{2026:arndt.bangerth.ea:deal,
+  author  = {Daniel Arndt and Wolfgang Bangerth and Bruno Blais and Marc Fehling and Rene Gassm\"{o}ller
+             and Timo Heister and Luca Heltai and Vladimir Ivannikov and Martin Kronbichler
+             and Matthias Maier and Peter Munch and Andreas Steger and Dominik Still and Bruno Turcksin
+             and David Wells},
+  title   = {The deal.II library, Version 9.8},
+  journal = {Journal of Numerical Mathematics},
+  year    = 2026,
+  doi     = {10.1515/jnma-2026-0118}
+}
+```
+
+-   Daniel Arndt,
+    Wolfgang Bangerth,
     Maximilian Bergbauer,
     Bruno Blais,
     Marc Fehling,
