@@ -26,10 +26,10 @@ page](publications-details.md).
         <strong>The deal.II Library, Version 9.8
         </strong>
         <br>
-        Journal of Numerical Mathematics, accepted. 2026.
+        Journal of Numerical Mathematics, 2026.
         <br>
         <a href="https://doi.org/10.1515/jnma-2026-0118">DOI: 10.1515/jnma-2026-0118</a>;
-        <a href="https://dealii.org/deal98-preprint.pdf" target="_top">preprint</a>;
+        <a href="https://dealii.org/deal98-preprint.pdf" target="_top">preprint</a>
         <!-- <a href="https://github.com/dealii/publication-list/blob/c87698085be9d9b3553dc347ab2056f6ac9de519/publications-2024.bib#L17-L30">bibtex</a> -->
         <br>
 ```
