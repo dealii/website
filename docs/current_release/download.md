@@ -10,12 +10,12 @@ Downloads
     We provide various options to help you with the installation of deal.II and its dependencies. Please see the [Getting deal.II wiki page](https://github.com/dealii/dealii/wiki/Getting-deal.II) for more information and do not hesitate to ask on the [deal.II discussion group for help](../getting_help/index.md).
 
 
-Current Release: 9.7.1
+Current Release: 9.8.0
 ----------------------
 
-Sources |   <span style="font-weight:normal">dealii-9.7.1.tar.gz:  [mirror](/downloads/dealii-9.7.1.tar.gz), [github](https://github.com/dealii/dealii/releases/download/v9.7.1/dealii-9.7.1.tar.gz) <br> (PGP signature file: [mirror](/downloads/dealii-9.7.1.tar.gz.asc), [github](https://github.com/dealii/dealii/releases/download/v9.7.1/dealii-9.7.1.tar.gz.asc)) <br> September 14, 2025, 41MB. <br> sha256:&nbsp;0f2096ef83db54fdcebe9f3d148fa713f63f1c3f567941b53bcb4a1a8ea7de43<br> See [README](/9.7.0/readme.html) for installation instructions or open <code>doc/readme.html</code> after unpacking </span>|
+Sources |   <span style="font-weight:normal">dealii-9.8.0.tar.gz:  [mirror](/downloads/dealii-9.8.0.tar.gz), [github](https://github.com/dealii/dealii/releases/download/v9.8.0/dealii-9.8.0.tar.gz) <br> (PGP signature file: [mirror](/downloads/dealii-9.8.0.tar.gz.asc), [github](https://github.com/dealii/dealii/releases/download/v9.8.0/dealii-9.8.0.tar.gz.asc)) <br> August 9, 2026, 41MB. <br> sha256:&nbsp;d8d66aac57baad145a752d3f11cf72cfa9457e3f99ae09e5c8d5c9259a83aee1<br> See [README](/9.8.0/readme.html) for installation instructions or open <code>doc/readme.html</code> after unpacking </span>|
 -----------: |:-------------|
-<strong>Offline documentation</strong>      | dealii-9.7.0-offline_documentation.tar.gz: [mirror](/downloads/dealii-9.7.0-offline_documentation.tar.gz), [github](https://github.com/dealii/dealii/releases/download/v9.7.0/dealii-9.7.0-offline_documentation.tar.gz) <br>  (PGP signature file: [mirror](/downloads/dealii-9.7.0-offline_documentation.tar.gz.asc), [github](https://github.com/dealii/dealii/releases/download/v9.7.0/dealii-9.7.0-offline_documentation.tar.gz.asc)) <br>   July 22, 2025, 448MB. <br> sha256:&nbsp;93fdfa3ea7a64a803ab7ba0dc3bc89b2708c5348ccb621d42d766e7fb67aa865 |
+<strong>Offline documentation</strong>      | dealii-9.8.0-offline_documentation.tar.gz: [mirror](/downloads/dealii-9.8.0-offline_documentation.tar.gz), [github](https://github.com/dealii/dealii/releases/download/v9.8.0/dealii-9.8.0-offline_documentation.tar.gz) <br>  (PGP signature file: [mirror](/downloads/dealii-9.8.0-offline_documentation.tar.gz.asc), [github](https://github.com/dealii/dealii/releases/download/v9.8.0/dealii-9.8.0-offline_documentation.tar.gz.asc)) <br>   August 9, 2026, 455MB. <br> sha256:&nbsp;f954430598e3ec09dcee85453e13478d4a9c52ffd26cc97f894ee583b963c536 |
 
 Previous versions
 -----------------
