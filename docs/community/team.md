@@ -95,7 +95,7 @@ Many people have contributed to deal.II over the years, many of them very substa
 1. Kyle Arnold
 1. Rajat Arora
 1. Arpit Babbar
-1. Andrew Baker
+1. Andrew Barker
 1. Abbas Ballout
 1. Wolfgang Bangerth
 1. Mauro Bardelloni
