@@ -71,44 +71,60 @@ an implementation of a multilevel Monte Carlo method for random Darcy flow.
 Videos
 ------
 
-<div id="video-timeline"></div>
-<script>
-  const timelineSource = "1FYT2_aIxZT4VFJeJDrqAu5out9HwCDwsxWU299e5hlk";
-  const timelineContainer = document.getElementById("video-timeline");
+<link rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
 
-  function addTimeline(initialSlide) {
-    const timeline = document.createElement("iframe");
-    timeline.src =
-      "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=" +
-      timelineSource +
-      "&font=Default&lang=en&initial_zoom=2&height=650&start_at_slide=" +
-      initialSlide;
-    timeline.width = "100%";
-    timeline.height = "650";
-    timeline.setAttribute("webkitallowfullscreen", "");
-    timeline.setAttribute("mozallowfullscreen", "");
-    timeline.setAttribute("allowfullscreen", "");
-    timeline.frameBorder = "0";
-    timelineContainer.appendChild(timeline);
+<div id="timeline-embed" style="height: 650px; width: 100%"></div>
+
+<script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+<script>
+  const timeline = new TL.Timeline(
+    "timeline-embed",
+    "1FYT2_aIxZT4VFJeJDrqAu5out9HwCDwsxWU299e5hlk",
+    { initial_zoom: 2, language: "en" }
+  );
+
+  const today = new Date();
+  const sixYearsAgo = new Date(today);
+  sixYearsAgo.setFullYear(today.getFullYear() - 6);
+  const windowDuration = today - sixYearsAgo;
+
+  function showRandomVideo() {
+    const videos = timeline.config.events;
+    const video = videos[Math.floor(Math.random() * videos.length)];
+
+    timeline.goToId(video.unique_id);
   }
 
-  fetch("https://docs.google.com/spreadsheets/d/" + timelineSource + "/pub?output=csv")
-    .then((response) => {
-      if (!response.ok) {
-        throw new Error("Unable to retrieve the video timeline.");
-      }
-      return response.text();
-    })
-    .then((csv) => {
-      const entries = csv.trim().split(/\r?\n/).length - 1;
-      if (entries < 1) {
-        throw new Error("The video timeline does not contain any entries.");
-      }
-      addTimeline(Math.floor(Math.random() * entries));
-    })
-    .catch((error) => {
-      console.error(error);
-      addTimeline(0);
-    });
+  function alignTimelineWithToday() {
+    const navigation = timeline._timenav;
+    const scaleFactor =
+      navigation.timescale._span_in_millis / windowDuration;
+
+    navigation.setZoomFactor(scaleFactor);
+
+    const rightEdge = navigation.options.width;
+    const todayPosition = navigation.timescale.getPosition(today.getTime());
+    const minimumOffset =
+      -(navigation.timescale.getPixelWidth() - rightEdge / 2);
+    const maximumOffset = rightEdge / 2;
+    const offset = Math.max(
+      minimumOffset,
+      Math.min(maximumOffset, rightEdge - todayPosition)
+    );
+
+    navigation._el.slider.style.left = `${offset}px`;
+  }
+
+  timeline.on("loaded", () => {
+    window.setTimeout(
+      () => {
+        showRandomVideo();
+        alignTimelineWithToday();
+      },
+      timeline._timenav.options.duration + 50
+    );
+  });
+  window.addEventListener("resize", () => {
+    window.setTimeout(alignTimelineWithToday, 250);
+  });
 </script>
-`
